@@ -9,7 +9,7 @@
 /^To stop receiving emails for this offer only please visit here:/ REJECT
 /^T o un subscribe, cli ck b elow/ REJECT
 /11231 nw 20st unit 140/ REJECT
-/Advertising Dept., 2 Wisconsin Circle/ 
+/Advertising Dept., 2 Wisconsin Circle/ REJECT
 /Make Money Fast!/ REJECT
 /Your TransUnion, Equifax, and Experian credit scores may have changed/ REJECT
 /PENDING: Government money may be available for you./ REJECT

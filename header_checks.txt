@@ -97,7 +97,7 @@
 /^Subject: A medical billing and coding position has opened up for you./ REJECT
 /^Subject: You have qualified for Education Funding./ REJECT
 /^Subject: .*, Attention: Home Workers Needed ASAP!/ REJECT
-/^Subject: .*, Play Bejeweled 2 on GSN /REJECT
+/^Subject: .*, Play Bejeweled 2 on GSN/ REJECT
 /^Subject: Avandia linked to heart attack and death./ REJECT
 /^Subject: Thousands of Hip Implants Recalled Due to Failure/ REJECT
 /^Subject: Save 50% on AutoInsurance/ REJECT

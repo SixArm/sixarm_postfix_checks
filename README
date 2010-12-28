@@ -1,1 +1,8 @@
 SixArm.com » Postfix » Checks for spam blocking
+
+Postfix checks for spam blocking.
+
+Example use in main.cf
+  header_checks = regexp:/etc/postfix/custom/header_checks.txt
+  mime_header_checks = regexp:/etc/postfix/custom/mime_header_checks.txt
+  body_checks = regexp:/etc/postfix/custom/body_checks.txt
