@@ -1,0 +1,122 @@
+/^From: Kitchen Cabinets <info@/ REJECT
+/^From: Past School Friend/ REJECT
+/^From: VA Loan <valoans@/ REJECT
+/^From: Rid BedBugs <RidBedBugs@/ REJECT
+/^From: NaughtyDating <info@/ REJECT
+/^From: Medical Opening <info@/ REJECT
+/^From: New cell Phone <info@/ REJECT
+/^From: Government Grants <info@/ REJECT
+/^From: Ebay Cash Machine/ REJECT
+/^From: "CertifiedNursingAssistant"/ REJECT
+/^From: "FreeCreditScore.com"/ REJECT
+/^From: "SurveillanceCamera"/ REJECT
+/^From: Tuition Assistance <info@/ REJECT
+/^From: Credit Limit Raise <info@/ REJECT
+/^From: Annual Enrollment Period <info@/ REJECT
+/^From: NaughtyDating <info@/ REJECT
+/^From: Restaurant Card <info@/ REJECT
+/^From: Health Analysis <info@/ REJECT
+/^From: Hip Recall Legal Center / REJECT
+/^From: Hip Recall Legal Center <info@/ REJECT
+/^From: Restaurant Card <info@/ REJECT
+/^From: Affordable Health-Rates <info@/ REJECT
+/^From: Past School Friend <info@/ REJECT
+/^From: "DiplomasForJobs.com"/ REJECT
+/^From: Electronic Cigarette Free Trial / REJECT
+/^From: .*@mybestideatoday1.info/ REJECT
+/^From: New Cell Phone <info@/ REJECT
+/^From: Hip Recall Legal Center / REJECT
+/^From: YoshiBlade <info@/ REJECT
+/^From: War On ALS <WarOnALS@/ REJECT
+/^From: Work at Home / REJECT
+/^From: Past School Friend / REJECT
+/^From: Dining Promo <info@/ REJECT
+/^From: GetKitchenCabinets/ REJECT
+/^From: Online Doctorate <info@/ REJECT
+/^From: Steel Buildings <info@/ REJECT
+/^From: Accounting Degree <info@m/ REJECT
+/^From: Knee Replacement Alert <info@/ REJECT
+/^From: Knee Replacement / REJECT
+/^From: MedicalBillingandCoding/ REJECT
+/^From: NaughtyDating <info@/ REJECT
+/^From: BOGO Business Cards/ REJECT
+/^From: Get Published <info@/ REJECT
+/^From: PetCareRx <info@/ REJECT
+/^From: Vehicle Research Survey <VehicleResearchSurvey@/ REJECT
+/^From: From: Auto Dealer <info@/ REJECT
+/^From: Matrix Direct Agent/ REJECT
+/^From: Liberty Medical <info@/ REJECT
+/^From: Avandia Info <avandia_info@/ REJECT
+/^From: Local Mom Report <info@/ REJECT
+/^From: InboxPrize - Grant Center/ REJECT
+/^From: BadCreditLoans/ REJECT
+/^From: BidSauce/ REJECT
+/^From: Online Doctorate <info@/ REJECT
+/^From: Full Cheating Wives Profiles/ REJECT
+/^From: CarInsuranceRates <CarInsuranceRates@/ REJECT
+/^From: Knee Replacement Alert/ REJECT
+/^From: BestOfferEver/ REJECT
+/^From: Restaurant Card <info@/ REJECT
+/^From: Restaurant Coupons <info@/ REJECT
+/^From: Sport Utility Vehicles <info@/ REJECT
+/^From: BadCreditLoans <info@/ REJECT
+/^From: LasikEyeSurgery <LasikEyeSurgery@/ REJECT
+/^From: One Hundred Day Loans/ REJECT
+/^From: Cash Advances / REJECT
+/^From: WarrantyOptions <WarrantyOptions@/ REJECT
+/^From: 100Day-Loans / REJECT
+/^From: PennyAuctions <PennyAuctions@/ REJECT
+/^From: Canterbury Who's Who/ REJECT 
+/^From: Turn her on </ REJECT
+/^From: Newgy Robo-Pong/ REJECT
+/^From: LocalCarQuotes/ REJECT
+/^From: LifeInsuranceQuotes/ REJECT
+/^From: HIP RECALL INFORMATION/ REJECT
+/^Subject: REGLAN Users - Lawsuit Information Update/ REJECT
+/^Subject: With An Extended Service Contract You and Your Vehicle Are Protected/ REJECT
+/^Subject: Bid on Great products for under/ REJECT
+/^Subject: Graduate with a Doctorate through Online Courses./ REJECT
+/^Subject: Your Loan is Approved, regardless of Poor Credit History./ REJECT
+/^Subject: Raise Your Salary and Growth Potential with an Online Degree/ REJECT
+/^Subject: Drivers Fail To Take Advantage of New Auto Insurance Discounts/ REJECT
+/^Subject: Past friends are currently searching for you. Find out who./ REJECT
+/^Subject: Your restaurant coupon is enclosed./ REJECT
+/^Subject: Local Restaurant Coupons now available for download/ REJECT
+/^Subject: .*Make Money Fast!/ REJECT
+/^Subject: Your TransUnion, Equifax, and Experian credit scores may have changed/ REJECT
+/^Subject: Your Credit-Score Updated: View ASAP/ REJECT
+/^Subject: You Have Unclaimed G.I. Bill Benefits/ REJECT
+/^Subject: You meet qualifications for federal funding./ REJECT
+/^Subject: Earn a nursing degree today/ REJECT
+/^Subject: .* Government Grants - find out if you qualify/ REJECT
+/^Subject: .* Reminder: Check your .* Credit Score/ REJECT
+/^Subject: Surveillance camera. Don't let thieves get away./ REJECT
+/^Subject: Gov't grant money: why not see if you qualify/ REJECT
+/^Subject: The Nevada Edge - Discover the benefits of Incorporating in Nevada/ REJECT
+/^Subject: A nursing school in your area is offering financial aid/ REJECT
+/^Subject: A medical billing and coding position has opened up for you./ REJECT
+/^Subject: You have qualified for Education Funding./ REJECT
+/^Subject: .*, Attention: Home Workers Needed ASAP!/ REJECT
+/^Subject: .*, Play Bejeweled 2 on GSN /REJECT
+/^Subject: Avandia linked to heart attack and death./ REJECT
+/^Subject: Thousands of Hip Implants Recalled Due to Failure/ REJECT
+/^Subject: Save 50% on AutoInsurance/ REJECT
+/^Subject: AT&T Online Exclusive:/ REJECT
+/^Subject: Do you suffer from Heartburn?/ REJECT
+/^Subject: Save 50% on AutoInsurance/ REJECT
+/^Subject: Past school friends are currently searching for you./ REJECT
+/^Subject: Get $1000 in as little as 1 hour/ REJECT
+/^Subject: \[fname\] ,/ REJECT
+/^Subject: Your free glucose meter from Liberty Medical / REJECT
+/^Subject: An Orchard Bank MasterCard/ REJECT
+/^Subject: Vinyl Siding Discounts/ REJECT
+/^Subject: Start your Accounting Degree online./ REJECT
+/^Subject: Your local grocery coupons are available for download./ REJECT
+/^Subject: Your discount airline tickets are available for booking./ REJECT
+/^Subject: [fname] your new 2010 Credit Report/ REJECT
+/^Subject: Now training: Medical Billing and Coding/ REJECT
+/^Subject: 3 questions that get all women horny/ REJECT
+/^Subject: Instant Cash Advance with Online Payday Loans/ REJECT
+/^Subject: Can't wait for your next paycheck/ REJECT
+/^Subject: \s*Local women looking for one night stands/ REJECT
+/^Subject: What does it take to be a healthcare professional/ REJECT

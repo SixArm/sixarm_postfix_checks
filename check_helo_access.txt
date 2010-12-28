@@ -1,0 +1,3 @@
+real.joelparkerhenderson.com   OK
+fake.joelparkerhenderson.com   REJECT You are not me. Shoo!
+

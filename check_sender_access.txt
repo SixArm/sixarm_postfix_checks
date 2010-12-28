@@ -1,0 +1,9 @@
+mail.adspacenetworks.com  OK
+fake.yahoo.com REJECT This is a forged sender.
+advertise-bz.cn REJECT
+CertifiedNursingAssistant REJECT
+FreeCreditScore.com REJECT
+admin@advertise-bz.cn REJECT
+
+
+

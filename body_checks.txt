@@ -1,0 +1,82 @@
+/^PLUS a 7-Day Trial of 3 Bureau Credit Monitoring/ REJECT
+/^Save big on cheap airline tickets here:/ REJECT
+/^Your FREE Printable Coupons are available now:/ REJECT
+/^Customize your loans and Refinance your home./ REJECT
+/^Your FREE Printable Coupons are available now:/ REJECT
+/^Your fast computer training is available immediately. Start now:/ REJECT
+/^Vinyl Siding is perfect for your home: Tough, Affordable, and Quick./ REJECT
+/^Customize your loans and Refinance your home./ REJECT
+/^To stop receiving emails for this offer only please visit here:/ REJECT
+/^T o un subscribe, cli ck b elow/ REJECT
+/11231 nw 20st unit 140/ REJECT
+/Advertising Dept., 2 Wisconsin Circle/ 
+/Make Money Fast!/ REJECT
+/Your TransUnion, Equifax, and Experian credit scores may have changed/ REJECT
+/PENDING: Government money may be available for you./ REJECT
+/Government Funding Solutions Team/ REJECT
+/Transunion, Equifax and Experian CreditReports and Scores./ REJECT
+/members have invited you to join Singlesnet,/ REJECT
+/Veterans Only - GI Bill Info/ REJECT
+/Access your government funding now:/ REJECT
+/Check your Experian Credit Score for FREE/ REJECT
+/Get your FREE Experian Credit Score/ REJECT
+/End Future offer by writing to that address also/ REJECT
+/Superior Smoking Alternatives/ REJECT
+/www.advertise-bz.cn/ REJECT
+/Affordable-Health-Rates/ REJECT
+/Annual-Enrollment-Period.com/ REJECT
+/Get your Medicare Advantage Pricing here/ REJECT
+/Welcome to the Direct Buy Club/ REJECT
+/Discover the Benefits of Incorporating in Nevada/ REJECT
+/Your psychic reading is enclosed:/ REJECT
+/Get a Term Life Insurance Quote, its Free, Fast and Easy!/ REJECT
+/Speeddate is the fastest-growing online dating platform in the world./ REJECT
+/Go back to school without worrying if you have the funds./ REJECT
+/1ClickPrizesSweepstakes/ REJECT
+/PetCareRx.com, America's Most Affordable Pet Pharmacy/ REJECT
+/ConsumerInjuryAlert/ REJECT
+/Are You Writing the Next Great Novel?/ REJECT
+/McDonald's Arch Card is Pending Your Confirmation/ REJECT
+/Medical Billing & Coding Training/ REJECT
+/Stay connected with friends and family with a new phone today:/ REJECT
+/A nursing school in your area is offering financial aid./ REJECT
+/The YoshiBlade is made from diamond hard Zirconium Oxide/ REJECT
+/Consolidate debt today for a better tomorrow./ REJECT
+/Bad Credit is OK. You have been approved./ REJECT
+/Are you in Need of a Kitchen Makeover?/ REJECT
+/Huge Savings On Brand Name Electronics!/ REJECT
+/Singles in your area at True .com have messaged you./ REJECT
+/To un subscribe, please visit:/ REJECT
+/Past school friends are currently searching for you./ REJECT
+/Explore VA LOAN options: Start Here/ REJECT
+/Compare and Save on Auto Insurance/ REJECT
+/This is an advertisement. If you wish to stop receiving emails, visit here./ REJECT
+/TOP 5 REASONS YOU NEED LIFE INSURANCE/ REJECT
+/Unlimited repairs on your home are available today:/ REJECT
+/Let Liberty Medical make your life easier./ REJECT
+/HomeWarranty101,/ REJECT
+/Avandia Side-Effects: Heart Related Injuries, Broken Bones and Liver Failure./ REJECT
+/Cheating Wives Looking To Date!/ REJECT
+/PRESS HERE IF YOU WANT TO SLEEP WITH A CHEATING WIFE/ REJECT
+/Earn massive profits from home/ REJECT
+/Prepare for a career in law enforcement, corrections or homeland security./ REJECT
+/Receive Permanent Suspension of Some Bills. Start/ REJECT 
+/Request your FREE Nevada Edge Book and DVD today!/ REJECT
+/"Wonderful coupon that can not be passed up"/ REJECT
+/about this amazing FREE prepaid card from Visa!/ REJECT
+/Local women looking for a one night stands/ REJECT
+/A Court Order ("automatic stay") To Stop All Collection Efforts in your local area/ REJECT
+/Chart your Success in Medical Billing & Coding/ REJECT
+/Train in Medical Billing & Coding Programs Online or at a School Near You./ REJECT
+/Have you dreamed about being a Pharmacy Assistant?/ REJECT
+/Gain the training needed to help a pharmacist/ REJECT
+/See below For more information about My Fun Cards, including our address and discontinue link/ REJECT
+/INTERNATIONAL PRIZE AWARD DEPARTMENT/ REJECT
+/There is no commitment necessary to Review The Details./ REJECT
+/You Can Achieve a 700+ Credit Score/ REJECT
+/STOP CRIME by joining the training force in/ REJECT
+/Learn how to gain the skills required to work in the health care field./ REJECT
+/This recurring campaign contains advertising. This campaign is delivered by: Jet Set Special/ REJECT
+/With rates at historic lows, Life Insurance is more affordable than ever!/ REJECT
+/Dealers Are WAY overstocked. INCREDIBLE INCENTIVES/ REJECT
+/Your FREE 7-Day VIP Membership from Gold's Gym is available now:/ REJECT
