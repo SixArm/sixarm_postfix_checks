@@ -132,4 +132,4 @@
 /^Subject: .*, Your Extra Holiday Cash is Available/ REJECT
 /^Subject: Sign up for satellite Internet service today/ REJECT
 /^Subject: Schedule Your LASIK Evaluation Today/ REJECT
-/^Subject: Get DirectTV at a / REJECT
+/^Subject: Get DirectTV at / REJECT
