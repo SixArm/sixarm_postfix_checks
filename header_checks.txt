@@ -1,77 +1,85 @@
-/^From: Kitchen Cabinets <info@/ REJECT
-/^From: Past School Friend/ REJECT
-/^From: VA Loan <valoans@/ REJECT
-/^From: Rid BedBugs <RidBedBugs@/ REJECT
-/^From: NaughtyDating <info@/ REJECT
-/^From: Medical Opening <info@/ REJECT
-/^From: New cell Phone <info@/ REJECT
-/^From: Government Grants <info@/ REJECT
-/^From: Ebay Cash Machine/ REJECT
-/^From: "CertifiedNursingAssistant"/ REJECT
-/^From: "FreeCreditScore.com"/ REJECT
-/^From: "SurveillanceCamera"/ REJECT
-/^From: Tuition Assistance <info@/ REJECT
-/^From: Credit Limit Raise <info@/ REJECT
-/^From: Annual Enrollment Period <info@/ REJECT
-/^From: NaughtyDating <info@/ REJECT
-/^From: Restaurant Card <info@/ REJECT
-/^From: Health Analysis <info@/ REJECT
-/^From: Hip Recall Legal Center / REJECT
-/^From: Hip Recall Legal Center <info@/ REJECT
-/^From: Restaurant Card <info@/ REJECT
-/^From: Affordable Health-Rates <info@/ REJECT
-/^From: Past School Friend <info@/ REJECT
-/^From: "DiplomasForJobs.com"/ REJECT
-/^From: Electronic Cigarette Free Trial / REJECT
-/^From: .*@mybestideatoday1.info/ REJECT
-/^From: New Cell Phone <info@/ REJECT
-/^From: Hip Recall Legal Center / REJECT
-/^From: YoshiBlade <info@/ REJECT
-/^From: War On ALS <WarOnALS@/ REJECT
-/^From: Work at Home / REJECT
-/^From: Past School Friend / REJECT
-/^From: Dining Promo <info@/ REJECT
-/^From: GetKitchenCabinets/ REJECT
-/^From: Online Doctorate <info@/ REJECT
-/^From: Steel Buildings <info@/ REJECT
-/^From: Accounting Degree <info@m/ REJECT
-/^From: Knee Replacement Alert <info@/ REJECT
-/^From: Knee Replacement / REJECT
-/^From: MedicalBillingandCoding/ REJECT
-/^From: NaughtyDating <info@/ REJECT
-/^From: BOGO Business Cards/ REJECT
-/^From: Get Published <info@/ REJECT
-/^From: PetCareRx <info@/ REJECT
-/^From: Vehicle Research Survey <VehicleResearchSurvey@/ REJECT
-/^From: From: Auto Dealer <info@/ REJECT
-/^From: Matrix Direct Agent/ REJECT
-/^From: Liberty Medical <info@/ REJECT
-/^From: Avandia Info <avandia_info@/ REJECT
-/^From: Local Mom Report <info@/ REJECT
-/^From: InboxPrize - Grant Center/ REJECT
-/^From: BadCreditLoans/ REJECT
-/^From: BidSauce/ REJECT
-/^From: Online Doctorate <info@/ REJECT
-/^From: Full Cheating Wives Profiles/ REJECT
-/^From: CarInsuranceRates <CarInsuranceRates@/ REJECT
-/^From: Knee Replacement Alert/ REJECT
-/^From: BestOfferEver/ REJECT
-/^From: Restaurant Card <info@/ REJECT
-/^From: Restaurant Coupons <info@/ REJECT
-/^From: Sport Utility Vehicles <info@/ REJECT
-/^From: BadCreditLoans <info@/ REJECT
-/^From: LasikEyeSurgery <LasikEyeSurgery@/ REJECT
-/^From: One Hundred Day Loans/ REJECT
-/^From: Cash Advances / REJECT
-/^From: WarrantyOptions <WarrantyOptions@/ REJECT
-/^From: 100Day-Loans / REJECT
-/^From: PennyAuctions <PennyAuctions@/ REJECT
-/^From: Canterbury Who's Who/ REJECT 
-/^From: Turn her on </ REJECT
-/^From: Newgy Robo-Pong/ REJECT
-/^From: LocalCarQuotes/ REJECT
-/^From: LifeInsuranceQuotes/ REJECT
-/^From: HIP RECALL INFORMATION/ REJECT
+/^From: "?Kitchen Cabinets"? <info@/ REJECT
+/^From: "?Past School Friend/ REJECT
+/^From: "?VA Loan"? <valoans@/ REJECT
+/^From: "?Rid BedBugs"? <RidBedBugs@/ REJECT
+/^From: "?NaughtyDating"? <info@/ REJECT
+/^From: "?Medical Opening"? <info@/ REJECT
+/^From: "?New cell Phone"? <info@/ REJECT
+/^From: "?Government Grants"? <info@/ REJECT
+/^From: "?Ebay Cash Machine/ REJECT
+/^From: "?"CertifiedNursingAssistant"/ REJECT
+/^From: "?"FreeCreditScore.com"/ REJECT
+/^From: "?"SurveillanceCamera"/ REJECT
+/^From: "?Tuition Assistance"? <info@/ REJECT
+/^From: "?Credit Limit Raise"? <info@/ REJECT
+/^From: "?Annual Enrollment Period"? <info@/ REJECT
+/^From: "?NaughtyDating"? <info@/ REJECT
+/^From: "?Restaurant Card"? <info@/ REJECT
+/^From: "?Health Analysis"? <info@/ REJECT
+/^From: "?Hip Recall Legal Center / REJECT
+/^From: "?Hip Recall Legal Center"? <info@/ REJECT
+/^From: "?Restaurant Card"? <info@/ REJECT
+/^From: "?Affordable Health-Rates"? <info@/ REJECT
+/^From: "?Past School Friend"? <info@/ REJECT
+/^From: "?"DiplomasForJobs.com"/ REJECT
+/^From: "?Electronic Cigarette Free Trial / REJECT
+/^From: "?.*@mybestideatoday1.info/ REJECT
+/^From: "?New Cell Phone"? <info@/ REJECT
+/^From: "?Hip Recall Legal Center / REJECT
+/^From: "?YoshiBlade"? <info@/ REJECT
+/^From: "?War On ALS"? <WarOnALS@/ REJECT
+/^From: "?Work at Home / REJECT
+/^From: "?Past School Friend / REJECT
+/^From: "?Dining Promo"? <info@/ REJECT
+/^From: "?GetKitchenCabinets/ REJECT
+/^From: "?Online Doctorate"? <info@/ REJECT
+/^From: "?Steel Buildings"? <info@/ REJECT
+/^From: "?Accounting Degree"? <info@m/ REJECT
+/^From: "?Knee Replacement Alert"? <info@/ REJECT
+/^From: "?Knee Replacement / REJECT
+/^From: "?MedicalBillingandCoding/ REJECT
+/^From: "?NaughtyDating"? <info@/ REJECT
+/^From: "?BOGO Business Cards/ REJECT
+/^From: "?Get Published"? <info@/ REJECT
+/^From: "?PetCareRx"? <info@/ REJECT
+/^From: "?Vehicle Research Survey"? <VehicleResearchSurvey@/ REJECT
+/^From: "?From: "?Auto Dealer"? <info@/ REJECT
+/^From: "?Matrix Direct Agent/ REJECT
+/^From: "?Liberty Medical"? <info@/ REJECT
+/^From: "?Avandia Info"? <avandia_info@/ REJECT
+/^From: "?Local Mom Report"? <info@/ REJECT
+/^From: "?InboxPrize - Grant Center/ REJECT
+/^From: "?BadCreditLoans/ REJECT
+/^From: "?BidSauce/ REJECT
+/^From: "?Online Doctorate"? <info@/ REJECT
+/^From: "?Full Cheating Wives Profiles/ REJECT
+/^From: "?CarInsuranceRates"? <CarInsuranceRates@/ REJECT
+/^From: "?Knee Replacement Alert/ REJECT
+/^From: "?BestOfferEver/ REJECT
+/^From: "?Restaurant Card"? <info@/ REJECT
+/^From: "?Restaurant Coupons"? <info@/ REJECT
+/^From: "?Sport Utility Vehicles"? <info@/ REJECT
+/^From: "?BadCreditLoans"? <info@/ REJECT
+/^From: "?LasikEyeSurgery"? <LasikEyeSurgery@/ REJECT
+/^From: "?One Hundred Day Loans/ REJECT
+/^From: "?Cash Advances / REJECT
+/^From: "?WarrantyOptions"? <WarrantyOptions@/ REJECT
+/^From: "?100Day-Loans / REJECT
+/^From: "?PennyAuctions"? <PennyAuctions@/ REJECT
+/^From: "?Canterbury Who's Who/ REJECT 
+/^From: "?Turn her on"? </ REJECT
+/^From: "?Newgy Robo-Pong/ REJECT
+/^From: "?LocalCarQuotes/ REJECT
+/^From: "?LifeInsuranceQuotes/ REJECT
+/^From: "?HIP RECALL INFORMATION/ REJECT
+/^From: "?FTD Exclusive Offer/ REJECT
+/^From: "?Sexual compatibility survey/ REJECT
+/^From: "?CertifiedNursingAssistant/ REJECT
+/^From: "?LifeInsuranceProviders/ REJECT
+/^From: "?OnlineDoctorate/ REJECT
+/^From: "?PharmacyAssistantPrograms/ REJECT
+/^From: "?Game Testers - Train to Work/ REJECT
+/^From: "?BetterVisionToday/ REJECT
 /^Subject: REGLAN Users - Lawsuit Information Update/ REJECT
 /^Subject: With An Extended Service Contract You and Your Vehicle Are Protected/ REJECT
 /^Subject: Bid on Great products for under/ REJECT
@@ -118,5 +126,10 @@
 /^Subject: 3 questions that get all women horny/ REJECT
 /^Subject: Instant Cash Advance with Online Payday Loans/ REJECT
 /^Subject: Can't wait for your next paycheck/ REJECT
-/^Subject: \s*Local women looking for one night stands/ REJECT
+/^Subject: .*Local women looking for one night stands/ REJECT
 /^Subject: What does it take to be a healthcare professional/ REJECT
+/^Subject: .* Get Food Stamps\? Find out now/ REJECT
+/^Subject: .*, Your Extra Holiday Cash is Available/ REJECT
+/^Subject: Sign up for satellite Internet service today/ REJECT
+/^Subject: Schedule Your LASIK Evaluation Today/ REJECT
+/^Subject: Get DirectTV at a reduced rate/ REJECT
