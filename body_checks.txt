@@ -93,3 +93,22 @@
 /Medical Billers and Coders/ REJECT
 /- Cyber Crime Investigations/ REJECT
 /Medical Insurance made SIMPLE from Medicare/ REJECT
+/Get your Payday Loan today/ REJECT
+/Jobs Are Hiring Again - Work While You Train/ REJECT
+/Government Grants Available!/ REJECT
+/SaveCashDirect/ REJECT
+/Cash.com Holiday Loan/ REJECT
+/Your extra cash is available now- you pay nothing for 100 Days/ REJECT
+/www.bestspecialonline.com/ REJECT
+/Looking to go back to school? Get money to earn your degree online./ REJECT
+/savecashdirect.com/ REJECT
+/Take advantage of your own tax dollars. Apply for a government grant./ REJECT
+/, Your Extra Holiday Cash is Available/ REJECT
+/Get the cash you need quickly and have more flexibility to repay it on your terms/ REJECT
+/Get up to $1,000 in as little as one hour/ REJECT
+/100DayLoans.com/ REJECT
+/You have been pre-approved, so access your cash now:/ REJECT
+/PAID POSITIONS AFTER TRAINING/ REJECT
+/NEW Relief Package to Get You OUT of DEBT/ REJECT
+/Great Deals on Inkjet and Laser Toner/ REJECT
+/PRESS HERE to hook up with a Married woman/ REJECT

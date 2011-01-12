@@ -80,6 +80,20 @@
 /^From: "?PharmacyAssistantPrograms/ REJECT
 /^From: "?Game Testers - Train to Work/ REJECT
 /^From: "?BetterVisionToday/ REJECT
+/^From: AccountingEducation/ REJECT
+/^From: Affordable Senior Care/ REJECT
+/^From: DirectBuy Free Pass/ REJECT
+/^From: LifeInsuranceProviders/ REJECT
+/^From: SCD - Vehicle Center/ REJECT
+/^From: BOGO Business Cards/ REJECT
+/^From: Pet-Park-Pad/ REJECT
+/^From: DirectBuy Free Pass/ REJECT
+/^From: Satellite TV Specialists/ REJECT 
+/^From: Electronic Cigarette Free/ REJECT
+/^From: Gevalia_Brew/ REJECT
+/^From: LocalCarQuotes/ REJECT
+/^From: Ink_Center/ REJECT
+/^From: DirectBuy Deals/ REJECT 
 /^Subject: REGLAN Users - Lawsuit Information Update/ REJECT
 /^Subject: With An Extended Service Contract You and Your Vehicle Are Protected/ REJECT
 /^Subject: Bid on Great products for under/ REJECT
@@ -133,3 +147,8 @@
 /^Subject: Sign up for satellite Internet service today/ REJECT
 /^Subject: Schedule Your LASIK Evaluation Today/ REJECT
 /^Subject: Get DirectTV at a / REJECT
+/^Subject: Accounting degree programs in your area/ REJECT
+/^Subject: get 1000 TV channels on your computer/ REJECT
+/^Subject: Holiday ink and toner sale/ REJECT
+/^Subject: Get the Best DISH Network/ REJECT
+/^Subject: DISH Network only/ REJECT
