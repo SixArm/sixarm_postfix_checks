@@ -1,0 +1,1 @@
+git pull && /etc/init.d/postfix reload
