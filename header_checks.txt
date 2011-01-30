@@ -1,3 +1,4 @@
+/^From: "?Gevalia.?Coffee"?/ REJECT
 /^From: "?Kitchen Cabinets"? <info@/ REJECT
 /^From: "?Past School Friend/ REJECT
 /^From: "?VA Loan"? <valoans@/ REJECT
@@ -104,6 +105,7 @@
 /^Subject: Past friends are currently searching for you. Find out who./ REJECT
 /^Subject: Your restaurant coupon is enclosed./ REJECT
 /^Subject: Local Restaurant Coupons now available for download/ REJECT
+/^Subject: BILLING REFUND: Auto Policy May Qualify For Hefty Rebate/ REJECT
 /^Subject: .*Make Money Fast!/ REJECT
 /^Subject: Your TransUnion, Equifax, and Experian credit scores may have changed/ REJECT
 /^Subject: Your Credit-Score Updated: View ASAP/ REJECT

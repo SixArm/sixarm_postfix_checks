@@ -112,3 +112,9 @@
 /NEW Relief Package to Get You OUT of DEBT/ REJECT
 /Great Deals on Inkjet and Laser Toner/ REJECT
 /PRESS HERE to hook up with a Married woman/ REJECT
+/Enter Your Zip Code On Next Page To See YOUR Possible Billing Refund/ REJECT
+/yourbetterbargain.com/ REJECT
+/www.exclusiveonlinesavings.com/ REJECT
+/Flirty Married Women want to date new people this week/ REJECT
+/This email is an advertisement sent to/ REJECT
+/Bid on unbelievable products at unbelievable prices at Quibids/ REJECT
