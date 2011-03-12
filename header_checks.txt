@@ -95,6 +95,10 @@
 /^From: LocalCarQuotes/ REJECT
 /^From: Ink_Center/ REJECT
 /^From: DirectBuy Deals/ REJECT 
+/^From: Credit Score Online/ REJECT
+/^From: Auto Deals Online/ REJECT
+/^From: Olive Garden Gift Card/ REJECT
+/^From: Awards notification/ REJECT
 /^Subject: REGLAN Users - Lawsuit Information Update/ REJECT
 /^Subject: With An Extended Service Contract You and Your Vehicle Are Protected/ REJECT
 /^Subject: Bid on Great products for under/ REJECT
@@ -154,3 +158,6 @@
 /^Subject: Holiday ink and toner sale/ REJECT
 /^Subject: Get the Best DISH Network/ REJECT
 /^Subject: DISH Network only/ REJECT
+/^Subject: DELL XPS LAPTOP- shipment pending/ REJECT
+/^Subject: Starbucks is giving away free coffee/ REJECT
+/^Subject: A brighter future could be a healthcare technology certificate away/ REJECT
