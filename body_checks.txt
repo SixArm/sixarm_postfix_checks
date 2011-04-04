@@ -1,4 +1,11 @@
-/\bunsubscribe .* http:\/\/[a-z]{2,4}[0-9]\.\(jowerguaka\|handlesystems\|kashibrot\|poolycrawm\).com\/[0-9,a-f]{30,50}\b/ REJECT
+/\b\(get your free \|unsubscribe\) .* http:\/\/[a-z]{2,4}[0-9]\.\(jowerguaka\|handlesystems\|kashibrot\|poolycrawm\).com\/[0-9,a-f]{30,50}\b/ REJECT
+/If you no longer wish to receive emails from this advertiser, please visit hereYou are Entitled to a FREE/ REJECT
+/Person wants to be your partner!/ REJECT
+/Your Credit-Score may have been adjusted/ REJECT
+/Show Me All 3 Credit Reports/ REJECT
+/to thank its loyal customers, is giving away / REJECT
+/Hurry and get your FREE / REJECT
+/Get a FREE* phone for quick / REJECT
 /^PLUS a 7-Day Trial of 3 Bureau Credit Monitoring/ REJECT
 /^Save big on cheap airline tickets here:/ REJECT
 /^Your FREE Printable Coupons are available now:/ REJECT

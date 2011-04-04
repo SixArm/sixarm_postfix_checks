@@ -1,5 +1,9 @@
 /^From: "?Gevalia.?Coffee"?/ REJECT
 /^From: "?Kitchen Cabinets"? <info@/ REJECT
+/^From: "?Awards notification/ REJECT
+/^From: "?Complimentary Gift Cards/ REJECT
+/^From: "?Auto Deals Online/ REJECT
+/^From: "?Mature Singles/ REJECT
 /^From: "?Past School Friend/ REJECT
 /^From: "?VA Loan"? <valoans@/ REJECT
 /^From: "?Rid BedBugs"? <RidBedBugs@/ REJECT
@@ -161,3 +165,4 @@
 /^Subject: DELL XPS LAPTOP- shipment pending/ REJECT
 /^Subject: Starbucks is giving away free coffee/ REJECT
 /^Subject: A brighter future could be a healthcare technology certificate away/ REJECT
+/^Subject: Local Singles Want To Meet/ REJECT
