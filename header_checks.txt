@@ -1,4 +1,7 @@
 /^From: "?Gevalia.?Coffee"?/ REJECT
+/^From: "?Christian Singles Dating/ REJECT
+/^From: "?AutoPriceFinder/ REJECT
+/^From: "?Plaque Attack Pets/REJECT
 /^From: "?Kitchen Cabinets"? <info@/ REJECT
 /^From: "?Awards notification/ REJECT
 /^From: "?Complimentary Gift Cards/ REJECT
@@ -21,8 +24,8 @@
 /^From: "?NaughtyDating"? <info@/ REJECT
 /^From: "?Restaurant Card"? <info@/ REJECT
 /^From: "?Health Analysis"? <info@/ REJECT
-/^From: "?Hip Recall Legal Center / REJECT
-/^From: "?Hip Recall Legal Center"? <info@/ REJECT
+/^From: "?Hip Recall / REJECT
+/^From: "?PlayPokerTonight/ REJECT
 /^From: "?Restaurant Card"? <info@/ REJECT
 /^From: "?Affordable Health-Rates"? <info@/ REJECT
 /^From: "?Past School Friend"? <info@/ REJECT
@@ -54,6 +57,7 @@
 /^From: "?Avandia Info"? <avandia_info@/ REJECT
 /^From: "?Local Mom Report"? <info@/ REJECT
 /^From: "?InboxPrize - Grant Center/ REJECT
+/^From: "?FreeOnlineScore/ REJECT
 /^From: "?BadCreditLoans/ REJECT
 /^From: "?BidSauce/ REJECT
 /^From: "?Online Doctorate"? <info@/ REJECT
@@ -97,21 +101,31 @@
 /^From: Electronic Cigarette Free/ REJECT
 /^From: Gevalia_Brew/ REJECT
 /^From: LocalCarQuotes/ REJECT
+/^From: TodaysCoupons/ REJECT
 /^From: Ink_Center/ REJECT
 /^From: DirectBuy Deals/ REJECT 
 /^From: Credit Score Online/ REJECT
 /^From: Auto Deals Online/ REJECT
 /^From: Olive Garden Gift Card/ REJECT
 /^From: Awards notification/ REJECT
+/^From: COBRA Alternatives/ REJECT
+/^From: Assistance for Unemployed/ REJECT
+/^Subject: .*You're_Pre-Approved/ REJECT
+/^Subject: .*You Deserve a Welchs Fruit Snack/ REJECT
+/^Subject: .*Triple Bureau Credit Scores/ REJECT
+/^Subject: .*Cobra_Medical_And_Save/ REJECT
+/^Subject: .*_Will_Do_Your_Taxes_FREE/ REJECT
 /^Subject: REGLAN Users - Lawsuit Information Update/ REJECT
 /^Subject: With An Extended Service Contract You and Your Vehicle Are Protected/ REJECT
 /^Subject: Bid on Great products for under/ REJECT
 /^Subject: Graduate with a Doctorate through Online Courses./ REJECT
 /^Subject: Your Loan is Approved, regardless of Poor Credit History./ REJECT
 /^Subject: Raise Your Salary and Growth Potential with an Online Degree/ REJECT
+/^Subject: .*Printer Ink and Toner/i REJECT
 /^Subject: Drivers Fail To Take Advantage of New Auto Insurance Discounts/ REJECT
 /^Subject: Past friends are currently searching for you. Find out who./ REJECT
 /^Subject: Your restaurant coupon is enclosed./ REJECT
+/^Subject: You could_win_a_/ REJECT
 /^Subject: Local Restaurant Coupons now available for download/ REJECT
 /^Subject: BILLING REFUND: Auto Policy May Qualify For Hefty Rebate/ REJECT
 /^Subject: .*Make Money Fast!/ REJECT
@@ -155,7 +169,7 @@
 /^Subject: .* Get Food Stamps\? Find out now/ REJECT
 /^Subject: .*, Your Extra Holiday Cash is Available/ REJECT
 /^Subject: Sign up for satellite Internet service today/ REJECT
-/^Subject: Schedule Your LASIK Evaluation Today/ REJECT
+/^Subject: Schedule Your .*LASIK Evaluation/i REJECT
 /^Subject: Get DirectTV at a / REJECT
 /^Subject: Accounting degree programs in your area/ REJECT
 /^Subject: get 1000 TV channels on your computer/ REJECT
