@@ -6,6 +6,11 @@
 /Your Credit-Score may have been adjusted/ REJECT
 /Show Me All 3 Credit Reports/ REJECT
 /to thank its loyal customers, is giving away / REJECT
+/If you do not wish to be contacted by / REJECT
+/_To_Stop_Being_Contacted_/ REJECT
+/This email is a commercial advertisement sent/ REJECT
+/One Night Stand Dating Community for Adults/ REJECT
+/What's Your RealAge/ REJECT
 /Hurry and get your FREE / REJECT
 /Get a FREE* phone for quick / REJECT
 /This is an advertisement. If you no longer want to receive future emails/ REJECT

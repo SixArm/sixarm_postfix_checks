@@ -2,6 +2,7 @@
 /^From: "?Christian Singles Dating/ REJECT
 /^From: "?AutoPriceFinder/ REJECT
 /^From: "?Plaque Attack Pets/REJECT
+/^From: "?LASIK Vision/ REJECT
 /^From: "?Kitchen Cabinets"? <info@/ REJECT
 /^From: "?Awards notification/ REJECT
 /^From: "?Complimentary Gift Cards/ REJECT
