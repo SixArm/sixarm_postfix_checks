@@ -1,5 +1,37 @@
 /\b\(get your free \|unsubscribe\) .* http:\/\/[a-z]{2,4}[0-9]\.\(jowerguaka\|handlesystems\|kashibrot\|poolycrawm\).com\/[0-9,a-f]{30,50}\b/ REJECT
 /\(If\|Should\) you \(no longer wish to receive\|are not interested in getting\) \(emails from this advertiser\|our promotional mailings\|future CouponCaboodle messages\)/ REJECT
+/\n\s**\n\s*\n\s*\n\s*\n\s*\n\s*\nClick this link to unsubscribe/ REJECT
+/Save big on a quality steel building/ REJECT
+/Reputable .. Name Brand Tires/ REJECT
+/Find out how to become an Ultrasound Technician/ REJECT
+/Help your teen get on the straight and narrow/ REJECT
+/Compare quotes and save on dental insurance/ REJECT
+/Save on dental insurance/ REJECT
+//Solar Panels - don't pay another electric bill Medical Billing and Coding Training/ REJECT
+/Goldline, an A\+ BBB member, has helped investors and collectors acquire gold/ REJECT
+/Get a FREE\* phone!/ REJECT
+/Are you qualified to get a Home Modification Loan/ REJECT
+/Learn about VA Loan programs and benefits/ REJECT
+/Discount Air Conditioners - energy efficient/ REJECT
+/Your career as a Pharmacy Assistant/ REJECT
+/Solar Panels - don't pay another electric bill/ REJECT 
+/Find a Local Certified Nursing Assistant Program/ REJECT
+/Replace your roof - modern technology/ REJECT
+/Learn the Six Sigma approach and become certified/ REJECT
+/Click here to confirm you free Carnival Cruise!/ REJECT
+/DirectBuy is the #1 home improvement and furnishing club./ REJECT
+/You opted-in to receive this message by providing your email address to one of DirectBuy's third party email marketing partners/ REJECT
+/To stop receiving announcements from this advertiser/ REJECT
+/Get a new air conditioner and get the comfort / REJECT
+/100 day loans, pay day loans, get money,/ REJECT
+/Business Phone Systems for ALL Budgets/ REJECT
+/Medical Billing and Coding Training/ REJECT
+/Help your teen get on the straight and narrow/ REJECT
+/Great Gifts for a Laid Back Father/ REJECT
+/Get 7 days F-R-E-E/ REJECT
+/Store everything in a steel building/ REJECT
+/To unsubscribe from future advertisements from / REJECT
+/ConsumerGiftCenter.us.com/ REJECT
 /_No_Longer_.*_Be_Contacted_.*_Here/ REJECT
 /Person wants to be your partner!/ REJECT
 /Millions of Americans are overpaying for COBRA/ REJECT

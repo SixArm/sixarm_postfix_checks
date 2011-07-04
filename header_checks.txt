@@ -3,6 +3,12 @@
 /^From: "?AutoPriceFinder/ REJECT
 /^From: "?Plaque Attack Pets/REJECT
 /^From: "?LASIK Vision/ REJECT
+/^From: Low Prices on New Cars/ REJECT
+/^From: AARP Deals/ REJECT
+/^From: Prepaid Visa RushCard/ REJECT
+/^From: Ford Clearance Event/ REJECT
+/^From: Orchard Bank Credit Card/ REJECT
+/^From: Stop Snoring Immediately/ REJECT
 /^From: "?Kitchen Cabinets"? <info@/ REJECT
 /^From: "?Awards notification/ REJECT
 /^From: "?Complimentary Gift Cards/ REJECT
@@ -116,6 +122,11 @@
 /^Subject: .*Triple Bureau Credit Scores/ REJECT
 /^Subject: .*Cobra_Medical_And_Save/ REJECT
 /^Subject: .*_Will_Do_Your_Taxes_FREE/ REJECT
+/^Subject: New Car Clearance Sale/ REJECT
+/^Subject: There Has Never Been A Better Time To Buy Gold/ REJECT
+/^Subject: Amazing Online Deals and Discounts at DealBoy/ REJECT
+/^Subject: Need MediGap Insurance/ REJECT
+/^Subject: Costco is giving away a/ REJECT
 /^Subject: REGLAN Users - Lawsuit Information Update/ REJECT
 /^Subject: With An Extended Service Contract You and Your Vehicle Are Protected/ REJECT
 /^Subject: Bid on Great products for under/ REJECT
