@@ -7,7 +7,15 @@
 /Help your teen get on the straight and narrow/ REJECT
 /Compare quotes and save on dental insurance/ REJECT
 /Save on dental insurance/ REJECT
-//Solar Panels - don't pay another electric bill Medical Billing and Coding Training/ REJECT
+/ALL PRODUCTS MUST GO/ REJECT
+/Thousands of Overstocked/ REJECT
+/To No Longer Receive Our Ads To/ REJECT
+/where single moms were earning up to/ REJECT
+/233 Wall Street Suite 177/ REJECT
+/CRITICAL: There has been a change to your EXPERIAN score/ REJECT
+/URGENT: There has been a change to your EXPERIAN score/ REJECT
+/GET YOUR FREE QUOTE NOW/ REJECT 
+/Medical Billing and Coding Training/ REJECT
 /Goldline, an A\+ BBB member, has helped investors and collectors acquire gold/ REJECT
 /Get a FREE\* phone!/ REJECT
 /Are you qualified to get a Home Modification Loan/ REJECT
