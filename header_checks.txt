@@ -120,6 +120,7 @@
 /^From: Awards notification/ REJECT
 /^From: COBRA Alternatives/ REJECT
 /^From: Assistance for Unemployed/ REJECT
+/^Subject: "?/\(CRITICAL\|URGENT\|ALERT\|WARNING\): There has been a change to your \(EXPERIAN\|TRANSUNION\) score/i REJECT
 /^Subject: .*You're_Pre-Approved/ REJECT
 /^Subject: .*You Deserve a Welchs Fruit Snack/ REJECT
 /^Subject: .*Triple Bureau Credit Scores/ REJECT
