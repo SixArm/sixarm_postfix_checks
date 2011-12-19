@@ -6,3 +6,15 @@ Example use in main.cf
   header_checks = regexp:/etc/postfix/custom/header_checks.txt
   mime_header_checks = regexp:/etc/postfix/custom/mime_header_checks.txt
   body_checks = regexp:/etc/postfix/custom/body_checks.txt
+
+To test the expressions:
+
+  postmap -q - regexp:header_checks.txt < mymessage
+  postmap -q - regexp:body_checks.txt < mymessage
+
+Shortcut scripts:
+
+  ./postmap-header-checks mymessage
+  ./postmap-body-checks mymessage
+
+
