@@ -2,6 +2,8 @@
 /\(If\|Should\) you \(no longer wish to receive\|are not interested in getting\) \(emails from this advertiser\|our promotional mailings\|future CouponCaboodle messages\)/ REJECT
 /\n\s**\n\s*\n\s*\n\s*\n\s*\n\s*\nClick this link to unsubscribe/ REJECT
 /\(CRITICAL\|URGENT\|ALERT\|WARNING\): There has been a change to your \(EXPERIAN\|TRANSUNION\) score/i REJECT
+/\n<html>\n<!--\n/ REJECT
+/<a href="http:\/\/\w+\.\w+\.info/\w+/\w+/\d+"><img  border="0" src="http:\/\/\w+\.\w+\.\w+/\w+/\w+/\w+"><\/a><br \/>/ REJECT
 /Save big on a quality steel building/ REJECT
 /Reputable .. Name Brand Tires/ REJECT
 /Find out how to become an Ultrasound Technician/ REJECT
