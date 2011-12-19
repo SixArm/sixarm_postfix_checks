@@ -1,4 +1,12 @@
 /^From: "?Gevalia.?Coffee"?/ REJECT
+/^From: WhosWhoRegistry/ REJECT
+/^From: Gifts for Cigar Lovers/ REJECT 
+/^From: "Auction.Savings"/ REJECT
+/^From: Pimsleur/ REJECT 
+/^From: Original Spacebag/ REJECT
+/^From: "SeniorPeopleMeet.com-Dating"?/ REJECT 
+/^From: Electronic-Cigarette-Free-Trial/ REJECT
+/^From: "unlimitedcalling@"/ REJECT
 /^From: "?Christian Singles Dating/ REJECT
 /^From: "?AutoPriceFinder/ REJECT
 /^From: "?Plaque Attack Pets/ REJECT
@@ -122,6 +130,15 @@
 /^From: Assistance for Unemployed/ REJECT
 /^Subject: "?/\(CRITICAL\|URGENT\|ALERT\|WARNING\): There has been a change to your \(EXPERIAN\|TRANSUNION\) score/i REJECT
 /^Subject: .*You're_Pre-Approved/ REJECT
+/^Subject: Work at Home:/ REJECT
+/^Subject: Hidden pictures anzd movies of attractive babies/ REJECT
+/^Subject: Give the Gift of Language this Christmas Season/ REJECT
+/^Subject: Your latest Zoosk search results
+/^Subject: Letter From Santa For Your Child/ REJECT
+/^Subject: SUBWAY is giving away lunch/ REJECT
+/^Subject: Meet up with a local handyman/ REJECT
+/^Subject: .*- iPad Auctions/ REJECT
+/^Subject: Free Professionals Online Registry/ REJECT
 /^Subject: .*You Deserve a Welchs Fruit Snack/ REJECT
 /^Subject: .*Triple Bureau Credit Scores/ REJECT
 /^Subject: .*Cobra_Medical_And_Save/ REJECT

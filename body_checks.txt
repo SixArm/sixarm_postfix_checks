@@ -8,6 +8,11 @@
 /Help your teen get on the straight and narrow/ REJECT
 /Compare quotes and save on dental insurance/ REJECT
 /Save on dental insurance/ REJECT
+/Get your Free $1000* \(Macys\|Subway\) Gift Card/ REJECT
+/Injection Free Winkle Reduction/ REJECT
+/Personalized Santa Letter has been reserved/ REJECT
+/CIGAR-SAVINGS/ REJECT
+/Meet Like-Minded Singles/ REJECT
 /ALL PRODUCTS MUST GO/ REJECT
 /Thousands of Overstocked/ REJECT
 /To No Longer Receive Our Ads To/ REJECT
