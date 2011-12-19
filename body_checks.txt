@@ -4,6 +4,7 @@
 /(CRITICAL|URGENT|ALERT|WARNING): There has been a change to your (EXPERIAN|TRANSUNION|CREDIT) score/ REJECT Spam body check: change to your credit
 /\n<html>\n<!--\n/ REJECT Spam body check: html with leading comment
 /<a href="http:\/\/\w+\.\w+\.info\/\w+\/\w{3}\/[0-9]{4}"><img  border="0" src="http:\/\/\w+\.\w+\.info\/\w+\/\w{3}\/[0-9]{4}"><\/a><br \/>/ REJECT Spam body check: link to info with img 
+/<input type="hidden" id="gwProxy" \/><!--Session data--><input type="hidden" id="jsProxy" \/>/ REJECT Spam body check: input type hidden with session data and jsProxy
 /Save big on a quality steel building/ REJECT
 /This is an advertisement\. \*See site for details/ REJECT Spam body check: this is an advertisement
 /Reputable .. Name Brand Tires/ REJECT
