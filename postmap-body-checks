@@ -1,1 +1,0 @@
-postmap -q - regexp:body_checks.txt < 
