@@ -10,12 +10,13 @@ Example use in main.cf
 
 To test the expressions:
 
-  postmap -q - regexp:header_checks.txt < msg
+  postmap -q - pcre:header_checks.txt < msg
+  postmap -q - pcre:body_checks.txt < msg
 
-Shortcut scripts:
+Also see the repo sixarm_postfix_scripts which have shortcut scripts:
 
-  ./postmap-header-checks msg
-  ./postmap-body-checks msg
+  ./postfix-header-checks msg
+  ./postfix-body-checks msg
 
 See the postfix regular expression documentation:
 http://www.postfix.org/pcre_table.5.html

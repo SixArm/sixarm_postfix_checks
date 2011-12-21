@@ -11,11 +11,12 @@
 /^From: "?AutoPriceFinder/ REJECT
 /^From: "?Plaque Attack Pets/ REJECT
 /^From: "?Gifts for Cigar Lovers/ REJECT
+/^From: "?Best Cigars/ REJECT
 /^From: "?Auction.Savings"?/ REJECT
 /^From: "?Pimsleur?/ REJECT
 /^From: "?LASIK Vision/ REJECT
-/^From: Low Prices on New Cars/ REJECT
-/^From: AARP Deals/ REJECT
+/^From: "?Low Prices on New Cars/ REJECT
+/^From: "?AARP (Deals|Membership)/ REJECT
 /^From: Prepaid Visa RushCard/ REJECT
 /^From: Ford Clearance Event/ REJECT
 /^From: Orchard Bank Credit Card/ REJECT
@@ -25,6 +26,7 @@
 /^From: "?Complimentary Gift Cards/ REJECT
 /^From: "?Auto Deals Online/ REJECT
 /^From: "?Mature Singles/ REJECT
+/^From: "?Magic Jack Plus/ REJECT
 /^From: "?Past School Friend/ REJECT
 /^From: "?VA Loan"? <valoans@/ REJECT
 /^From: "?Rid BedBugs"? <RidBedBugs@/ REJECT
@@ -128,7 +130,8 @@
 /^From: Awards notification/ REJECT
 /^From: COBRA Alternatives/ REJECT
 /^From: Assistance for Unemployed/ REJECT
-/^Subject: "?/\(CRITICAL\|URGENT\|ALERT\|WARNING\): There has been a change to your \(EXPERIAN\|TRANSUNION\) score/i REJECT
+/^From: Bigger Bidder/ REJECT
+/^Subject: "?(CRITICAL|URGENT|ALERT|WARNING): There has been a change to your (EXPERIAN|TRANSUNION) (credit score|score)/ REJECT Spam header: there has been a change to your credit score
 /^Subject: .*You're_Pre-Approved/ REJECT
 /^Subject: Work at Home:/ REJECT
 /^Subject: Hidden pictures anzd movies of attractive babies/ REJECT

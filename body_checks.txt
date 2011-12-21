@@ -1,21 +1,34 @@
-/\b(get your free |unsubscribe) .* http:\/\/[a-z]{2,4}[0-9]\.(jowerguaka|handlesystems|kashibrot|poolycrawm).com\/[0-9,a-f]{30,50}\b/ REJECT Spam body check: link to spam site
-/(If|Should) you (do not wish to receive|no longer wish to receive|are not interested in getting) (loan updates in the future|emails from this advertiser|our promotional mailings|future CouponCaboodle messages)/ REJECT Spam body check: advertising and promotional email
-/\n\s**\n\s*\n\s*\n\s*\n\s*\n\s*\nClick this link to unsubscribe/ REJECT Spam body check: click this link to unsubscribe
-/(CRITICAL|URGENT|ALERT|WARNING): There has been a change to your (EXPERIAN|TRANSUNION|CREDIT) score/ REJECT Spam body check: change to your credit
-/\n<html>\n<!--\n/ REJECT Spam body check: html with leading comment
-/<a href="http:\/\/\w+\.\w+\.info\/\w+\/\w{3}\/[0-9]{4}"><img  border="0" src="http:\/\/\w+\.\w+\.info\/\w+\/\w{3}\/[0-9]{4}"><\/a><br \/>/ REJECT Spam body check: link to info with img 
-/<input type="hidden" id="gwProxy" \/><!--Session data--><input type="hidden" id="jsProxy" \/>/ REJECT Spam body check: input type hidden with session data and jsProxy
+/\b(get your free |unsubscribe) .* http:\/\/[a-z]{2,4}[0-9]\.(jowerguaka|handlesystems|kashibrot|poolycrawm).com\/[0-9,a-f]{30,50}\b/ REJECT Spam body: link to spam site
+/(If|Should) you (do not wish to receive|no longer wish to receive|are not interested in getting) (loan updates in the future|emails from this advertiser|our promotional mailings|future CouponCaboodle messages)/ REJECT Spam body: advertising and promotional email
+/To (avoid receipt moving forward|be removed from this list|unsubscribe from this list),? please( use this page)?/ REJECT Spam body: to unsubscribe 1
+/\n\s**\n\s*\n\s*\n\s*\n\s*\n\s*\nClick this link to unsubscribe/ REJECT Spam body: click this link to unsubscribe REJECT Spam body: to unsubscribe 2
+/(CRITICAL|URGENT|ALERT|WARNING): There has been a change to your (EXPERIAN|TRANSUNION|) *(credit)? score/ REJECT Spam body: change to your credit
+/\n<html>\n<!--\n/ REJECT Spam body: html with leading comment
+/<a href="http:\/\/[\w\.]+\/(\w+.htm|\w+\/\w{3}\/[0-9]{4})"><img +(style="border: 0px solid ; width: [0-9]*px; height: [0-9]*px;" alt=""|border="0") src="http:\/\/[\w\.]+\/(images\/\w+.gif|\w+\/\w{3}\/[0-9]{4})"><\/a>/ REJECT Spam body: link image 1
+/<br><center><a href="http:\/\/[\w+\.]+/[0123456789abcdef]+"><img src="http:\/\/[\w+\.]+/images/[0123456789abcdef]+.gif" border="0"><\/a><\/center>/ REJECT Spam body: link image 2
+/<input type="hidden" id="gwProxy" \/><!--Session data--><input type="hidden" id="jsProxy" \/>/ REJECT Spam body: input type hidden with session data and jsProxy
+/<title>(get your free $100* \w+ gift card|join aarp|magic jack)!*<\/title> REJECT Spam body: bad title
+/&#85&#110&#115&#117&#98&#115cri&#98e/ REJECT
 /Save big on a quality steel building/ REJECT
-/This is an advertisement\. \*See site for details/ REJECT Spam body check: this is an advertisement
+/WHILE SUPPLIES_LAST/ REJECT
+/This is a third party advertisement sent to you/ REJECT
+/This is an advertisement\. \*See site for details/ REJECT Spam body: this is an advertisement
+/visit our email_removal site/ REJECT
+/Hottest Online Shopping Craze/ REJECT
+/EthixMarketing/ REJECT
+/Complications with Mesh Surgery/ REJECT Spam body: mesh surgery
+/You have been selected to join AARP/ REJECT
 /Reputable .. Name Brand Tires/ REJECT
 /Find out how to become an Ultrasound Technician/ REJECT
 /Help your teen get on the straight and narrow/ REJECT
 /Compare quotes and save on dental insurance/ REJECT
 /Save on dental insurance/ REJECT
 /Get your Free $1000* (Macys|Subway) Gift Card/ REJECT
+/Magic_Jack Plus/ REJECT
 /njection Free Winkle Reduction/ REJECT
 /Personalized Santa Letter has been reserved/ REJECT
 /CIGAR-SAVINGS/ REJECT
+/Premium Cigars/ REJECT
 /Meet Like-Minded Singles/ REJECT
 /ALL PRODUCTS MUST GO/ REJECT
 /Thousands of Overstocked/ REJECT
@@ -36,7 +49,7 @@
 /Learn the Six Sigma approach and become certified/ REJECT
 /Click here to confirm you free Carnival Cruise!/ REJECT
 /DirectBuy is the #1 home improvement and furnishing club./ REJECT
-/You opted-in to receive this message by providing your email address to one of DirectBuy's third party email marketing partners/ REJECT
+/You opted-in to receive this message by providing your email address to .* third party email marketing partners/ REJECT
 /To stop receiving announcements from this advertiser/ REJECT
 /Get a new air conditioner and get the comfort / REJECT
 /100 day loans, pay day loans, get money,/ REJECT
