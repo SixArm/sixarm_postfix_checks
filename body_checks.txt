@@ -7,7 +7,7 @@
 /<a href="http:\/\/[\w\.]+\/(\w+.htm|\w+\/\w{3}\/[0-9]{4})"><img +(style="border: 0px solid ; width: [0-9]*px; height: [0-9]*px;" alt=""|border="0") src="http:\/\/[\w\.]+\/(images\/\w+.gif|\w+\/\w{3}\/[0-9]{4})"><\/a>/ REJECT Spam body: link image 1
 /<br><center><a href="http:\/\/[\w+\.]+/[0123456789abcdef]+"><img src="http:\/\/[\w+\.]+/images/[0123456789abcdef]+.gif" border="0"><\/a><\/center>/ REJECT Spam body: link image 2
 /<input type="hidden" id="gwProxy" \/><!--Session data--><input type="hidden" id="jsProxy" \/>/ REJECT Spam body: input type hidden with session data and jsProxy
-/<title>(get your free $100* \w+ gift card|join aarp|magic jack)!*<\/title> REJECT Spam body: bad title
+/<title>(get your free $100* \w+ gift card|get your free ugg boots.*|join aarp|magic jack)!*<\/title> REJECT Spam body: bad title
 /&#85&#110&#115&#117&#98&#115cri&#98e/ REJECT
 /Save big on a quality steel building/ REJECT
 /WHILE SUPPLIES_LAST/ REJECT
