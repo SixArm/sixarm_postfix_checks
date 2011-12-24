@@ -5,7 +5,7 @@
 /^From: "?Pimsleur/ REJECT 
 /^From: Original Spacebag/ REJECT
 /^From: "SeniorPeopleMeet.com-Dating"?/ REJECT 
-/^From: "?From: Ford Clearance Event/ REJECT
+/^From: "?Ford Clearance Event/ REJECT
 /^From: Electronic-Cigarette-Free-Trial/ REJECT
 /^From: "unlimitedcalling@"/ REJECT
 /^From: "?Christian Singles Dating/ REJECT
@@ -135,6 +135,7 @@
 /^Subject: "?(CRITICAL|URGENT|ALERT|WARNING): There has been a change to your (EXPERIAN|TRANSUNION) (credit score|score)/ REJECT Spam header: there has been a change to your credit score
 /^Subject: .*You're_Pre-Approved/ REJECT
 /^Subject: Work at Home:/ REJECT
+/^Subject: Where do we send your .* Macys Gift Card/ REJECT
 /^Subject: Hidden pictures anzd movies of attractive babies/ REJECT
 /^Subject: Give the Gift of Language this Christmas Season/ REJECT
 /^Subject: Your latest Zoosk search results
