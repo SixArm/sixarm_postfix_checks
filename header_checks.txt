@@ -3,8 +3,9 @@
 /^From: "?Gifts for Cigar Lovers/ REJECT 
 /^From: "?Auction.Savings"/ REJECT
 /^From: "?Pimsleur/ REJECT 
-/^From: Original Spacebag/ REJECT
-/^From: "SeniorPeopleMeet.com-Dating"?/ REJECT 
+/^From: "?Fingerhut/ REJECT
+/^From: "?Original Spacebag/ REJECT
+/^From: "?SeniorPeopleMeet.com-Dating"?/ REJECT 
 /^From: "?Ford Clearance Event/ REJECT
 /^From: Electronic-Cigarette-Free-Trial/ REJECT
 /^From: "unlimitedcalling@"/ REJECT
