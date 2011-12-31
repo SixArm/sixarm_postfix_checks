@@ -1,5 +1,6 @@
 /^From: "?Gevalia.?Coffee"?/ REJECT
 /^From: "?Who'?s ?Who ?Registry/ REJECT
+/^From: "?LowerMyBills/ REJECT 
 /^From: "?Gifts for Cigar Lovers/ REJECT 
 /^From: "?Auction.Savings"/ REJECT
 /^From: "?Pimsleur/ REJECT 
