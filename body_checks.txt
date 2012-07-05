@@ -15,6 +15,9 @@
 /WHILE SUPPLIES_LAST/ REJECT
 /This is a third party advertisement sent to you/ REJECT
 /This is an .dvertisement/ REJECT Spam body: this is an advertisement
+/You're reading an Advert-i-sement/ REJECT
+/C-a-r-s-o-n C-i-ty Nevada/ REJECT
+/E-T-H-I-X_ M-a-r-k-e-t-i-n-g_L_L_C/ REJECT
 /You have read an .dvertisement/ REJECT Spam body: you have read an advertisement
 /Browse top health-care rates to save/ REJECT
 /printout oil change coupons/ REJECT
