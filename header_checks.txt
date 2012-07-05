@@ -12,6 +12,10 @@
 /^From: "unlimitedcalling@"/ REJECT
 /^From: "?Christian Singles Dating/ REJECT
 /^From: "?AutoPriceFinder/ REJECT
+/^From: "?Term Life Insurers/ REJECT
+/^From: "?Oil Change Coupons/ REJECT
+/^From: "?FreeScore360/ REJECT
+/^From: "?CreditReport </ REJECT
 /^From: "?Plaque Attack Pets/ REJECT
 /^From: "?Gifts for Cigar Lovers/ REJECT
 /^From: "?Best Cigars/ REJECT
@@ -134,15 +138,28 @@
 /^From: COBRA Alternatives/ REJECT
 /^From: Assistance for Unemployed/ REJECT
 /^From: Bigger Bidder/ REJECT
+/^From: HealthInsurance/ REJECT
+/^From: "?need-oilchange.net"?/ REJECT
+/^From: "?animalhealthinsurancesearch.com"?/ REJECT
+/^From: "?Toll Free Numbers"?/ REJECT
+/^From: "?air-milecreditcard.com"?/ REJECT
+/^From: "?Overstocked Auctions"?/ REJECT
 /^Subject: "?(CRITICAL|URGENT|ALERT|WARNING): There has been a change to your (EXPERIAN|TRANSUNION) (credit score|score)/ REJECT Spam header: there has been a change to your credit score
 /^Subject: .*You're_Pre-Approved/ REJECT
 /^Subject: Work at Home:/ REJECT
+/^Subject: Bad Credit OK/ REJECT
+/^Subject: Browse top health-care rates/ REJECT
+/^Subject: View Your Credit Score Now/ REJECT
+/^Subject: View oil change coupons/ REJECT
+/^Subject: Cheap Term Life Insurance/ REJECT
+/^Subject: A good credit score is key to financial life/ REJECT
 /^Subject: Where do we send your .* Macys Gift Card/ REJECT
 /^Subject: Hidden pictures anzd movies of attractive babies/ REJECT
 /^Subject: Give the Gift of Language this Christmas Season/ REJECT
 /^Subject: Your latest Zoosk search results
 /^Subject: Letter From Santa For Your Child/ REJECT
 /^Subject: SUBWAY is giving away lunch/ REJECT
+/^Subject: This weird food' burns [0-9]+% more fat/ REJECT
 /^Subject: Meet up with a local handyman/ REJECT
 /^Subject: .*- iPad Auctions/ REJECT
 /^Subject: Free Professionals Online Registry/ REJECT

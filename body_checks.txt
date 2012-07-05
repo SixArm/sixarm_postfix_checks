@@ -14,7 +14,19 @@
 /Save big on a quality steel building/ REJECT
 /WHILE SUPPLIES_LAST/ REJECT
 /This is a third party advertisement sent to you/ REJECT
-/This is an advertisement\. \*See site for details/ REJECT Spam body: this is an advertisement
+/This is an .dvertisement/ REJECT Spam body: this is an advertisement
+/You have read an .dvertisement/ REJECT Spam body: you have read an advertisement
+/Browse top health-care rates to save/ REJECT
+/printout oil change coupons/ REJECT
+/deals with wireless security cameras/ REJECT
+/adilizer.c0m/ REJECT
+/ad_il:izer:com/ REJECT
+/A-d-i-l-i-z-e-r.c-0-m/ REJECT
+/PO Box 54zero90one/ REJECT
+/H0ust0n, T-X/ REJECT
+/Stop emails here .../ REJECT
+/Stop receiving these messages here/ REJECT
+/If you'd prefer not to receive Advertisements/ REJECT
 /visit our email_removal site/ REJECT
 /Hottest Online Shopping Craze/ REJECT
 /EthixMarketing/ REJECT
