@@ -5,6 +5,13 @@
 /^From: "?Auction.Savings"/ REJECT
 /^From: "?Pimsleur/ REJECT 
 /^From: "?Fingerhut/ REJECT
+/^From: "?ChoiceHomeWarranty/ REJECT
+/^From: "?Belly Fat Blast/ REJECT
+/^From: "?DirectBuy Centers/ REJECT
+/^From: "?Sams Club Shoppers/ REJECT
+/^From: "?Internet Phone/ REJECT
+/^From: "?Find Out Anything/ REJECT
+/^From: "?Seal All Surfaces/ REJECT
 /^From: "?Original Spacebag/ REJECT
 /^From: "?SeniorPeopleMeet.com-Dating"?/ REJECT 
 /^From: "?Ford Clearance Event/ REJECT
@@ -146,6 +153,8 @@
 /^From: "?Overstocked Auctions"?/ REJECT
 /^Subject: "?(CRITICAL|URGENT|ALERT|WARNING): There has been a change to your (EXPERIAN|TRANSUNION) (credit score|score)/ REJECT Spam header: there has been a change to your credit score
 /^Subject: .*You're_Pre-Approved/ REJECT
+/^Subject: Save on monthly bills by getting cable/ REJECT
+/^Subject: Olive Garden Lovers/ REJECT
 /^Subject: Work at Home:/ REJECT
 /^Subject: Bad Credit OK/ REJECT
 /^Subject: Browse top health-care rates/ REJECT
