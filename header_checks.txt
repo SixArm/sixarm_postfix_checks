@@ -1,3 +1,22 @@
+/^From: Sams Club Members/ REJECT 
+/^From: Find the Dirt/ REJECT  
+/^From: Olive Garden Meals/ REJECT  
+/^From: Instant Financial Aid/ REJECT  
+/^From: Senior Citizens/ REJECT 
+/^From: House Payment Assistance 
+/^From: Background Checks/ REJECT  
+/^From: Lose 20 Years/ REJECT 
+/^From: Senior Finance Counseling/ REJECT 
+/^From: Speak Foreign Now/ REJECT 
+/^From: DirectBuy Free Pass/ REJECT
+/^From: Impress Anyone/ REJECT  
+/^From: Timeshare Sold/ REJECT  
+/^From: Compare Health Insurance/ REJECT 
+/^From: Wireless Camera/ REJECT  
+/^From: Seniors Take Notice/ REJECT 
+/^From: Reverse Mortgage Advisor/ REJECT 
+/^From: Lowered Invoice/ REJECT 
+/^From: Senior Financial Help/ REJECT
 /^From: "?Gevalia.?Coffee"?/ REJECT
 /^From: "?Who'?s ?Who ?Registry/ REJECT
 /^From: "?LowerMyBills/ REJECT 
@@ -151,6 +170,10 @@
 /^From: "?Toll Free Numbers"?/ REJECT
 /^From: "?air-milecreditcard.com"?/ REJECT
 /^From: "?Overstocked Auctions"?/ REJECT
+/^Subject: View Arrest Records Online/ REJECT
+/^Subject: Your zip-code qualifies for/ REJECT
+/^Subject: Your City Has Qualified For Auto-Rates/ REJECT
+/^Subject: Blood Pressure Myth Exposed/ REJECT
 /^Subject: "?(CRITICAL|URGENT|ALERT|WARNING): There has been a change to your (EXPERIAN|TRANSUNION) (credit score|score)/ REJECT Spam header: there has been a change to your credit score
 /^Subject: .*You're_Pre-Approved/ REJECT
 /^Subject: Save on monthly bills by getting cable/ REJECT

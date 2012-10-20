@@ -36,6 +36,12 @@
 /visit our email_removal site/ REJECT
 /Hottest Online Shopping Craze/ REJECT
 /EthixMarketing/ REJECT
+/If you wish to stop receiving these promos/ REJECT
+/If you do not want to receive anymore messages from/ REJECT
+/GrapeVine TeleTransport/ REJECT
+/Ever just had a bad feeling about someone/ REJECT
+/My Timeshare Expert/ REJECT
+/make-these-messages-stop-coming/ REJECT
 /Complications with Mesh Surgery/ REJECT Spam body: mesh surgery
 /You have been selected to join AARP/ REJECT
 /Reputable .. Name Brand Tires/ REJECT
