@@ -31,6 +31,7 @@
 /PO Box 54zero90one/ REJECT
 /H0ust0n, T-X/ REJECT
 /Stop emails here .../ REJECT
+/To be taken out of Bentley Light Speed Media Delivery/ REJECT
 /Stop receiving these messages here/ REJECT
 /If you'd prefer not to receive Advertisements/ REJECT
 /visit our email_removal site/ REJECT

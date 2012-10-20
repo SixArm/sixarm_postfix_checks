@@ -6,6 +6,22 @@
 /^From: House Payment Assistance 
 /^From: Background Checks/ REJECT  
 /^From: Lose 20 Years/ REJECT 
+/^From: Seal All Surfaces/ REJECT 
+/^From: EasyOnlineBachelorDegree/ REJECT
+/^From: Lose Belly Fat/ REJECT 
+/^From: DUI Attorneys/ REJECT 
+/^From: " BrainHealthKit.com"/ REJECT
+/^From: American Laser Skincare/ REJECT 
+/^From: Check Your Credit/ REJECT 
+/^From: Coffee Bean Diet/ REJECT 
+/^From: Olive Garden Savings/ REJECT
+/^From: Instant Check Mate/ REJECT
+/^From: Find Insurance/ REJECT
+/^From: ReverseMortgageAdviser/ REJECT 
+/^From: DishPromo/ REJECT
+/^From: SeniorPeopleMeet/ REJECT
+/^From: Claim Olive Garden Card/ REJECT
+/^From: Cheap Auto Insurance/ REJECT 
 /^From: Senior Finance Counseling/ REJECT 
 /^From: Speak Foreign Now/ REJECT 
 /^From: DirectBuy Free Pass/ REJECT
@@ -172,6 +188,12 @@
 /^From: "?Overstocked Auctions"?/ REJECT
 /^Subject: View Arrest Records Online/ REJECT
 /^Subject: Your zip-code qualifies for/ REJECT
+/^Subject: Halloween costumes for the entire family/ REJECT
+/^Subject: Blood Pressure Conspiracy Exposed/ REJECT
+/^Subject: Your unclaimed Olive Garden/ REJECT
+/^Subject: Guaranteed Retirement Income/ REJECT
+/^Subject: The best tire deals are here/ REJECT
+/^Subject: DISH - Sign up now/ REJECT
 /^Subject: Your City Has Qualified For Auto-Rates/ REJECT
 /^Subject: Blood Pressure Myth Exposed/ REJECT
 /^Subject: "?(CRITICAL|URGENT|ALERT|WARNING): There has been a change to your (EXPERIAN|TRANSUNION) (credit score|score)/ REJECT Spam header: there has been a change to your credit score
