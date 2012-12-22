@@ -2,6 +2,7 @@
 /11231 nw 20st unit 140/i REJECT Spam Body: 11231 nw 20st unit 140
 /1ClickPrizesSweepstakes/i REJECT Spam Body: 1ClickPrizesSweepstakes
 /233 Wall Street Suite 177/i REJECT Spam Body: 233 Wall Street Suite 177
+/4 Randall Street Greenville/i REJECT Spam Body: 4 Randall Street Greenville
 /&#85&#110&#115&#117&#98&#115cri&#98e/i REJECT Spam Body: &#85&#110&#115&#117&#98&#115cri&#98e
 /about this amazing FREE prepaid card from Visa!/i REJECT Spam Body: about this amazing FREE prepaid card from Visa!
 /Access your government funding now:/i REJECT Spam Body: Access your government funding now:
@@ -10,8 +11,10 @@
 /ad_il:izer:com/i REJECT Spam Body: ad_il:izer:com
 /a - d -  i   -  l  - i  -   z  -  e   -  r/i REJECT Spam Body: a - d -  i   -  l  - i  -   z  -  e   -  r
 /adver-cational/i REJECT Spam Body: adver-cational
+/Advertise-ment in your mail/i REJECT Spam Body: Advertise-ment in your mail
 /Advertising Dept., 2 Wisconsin Circle/i REJECT Spam Body: Advertising Dept., 2 Wisconsin Circle
 /Affordable-Health-Rates/i REJECT Spam Body: Affordable-Health-Rates
+/a high credit rating can significantly reduce your borrowing cost/i REJECT Spam Body: a high credit rating can significantly reduce your borrowing cost
 /<a href="http:\/\/[\w\.]+\.info/.*="><img src="http:\/\/[\w\.]+\.info/.*=" border="0"><\/a>/i REJECT Spam Body: <a href="http:\/\/[\w\.]+\.info/.*="><img src="http:\/\/[\w\.]+\.info/.*=" border="0"><\/a>
 /<a href="http:\/\/[\w\.]+\/(\w+.htm|\w+\/\w{3}\/[0-9]{4})"><img(style="border: 0px solid ; width: [0-9]*px; height: [0-9]*px;" alt=""|border="0") src="http:\/\/[\w\.]+\/(images\/\w+.gif|\w+\/\w{3}\/[0-9]{4})"><\/a>/i REJECT Spam Body: <a href="http:\/\/[\w\.]+\/(\w+.htm|\w+\/\w{3}\/[0-9]{4})"><img(style="border: 0px solid ; width: [0-9]*px; height: [0-9]*px;" alt=""|border="0") src="http:\/\/[\w\.]+\/(images\/\w+.gif|\w+\/\w{3}\/[0-9]{4})"><\/a>
 /ALL PRODUCTS MUST GO/i REJECT Spam Body: ALL PRODUCTS MUST GO
@@ -21,7 +24,11 @@
 /Are you in Need of a Kitchen Makeover?/i REJECT Spam Body: Are you in Need of a Kitchen Makeover?
 /Are you qualified to get a Home Modification Loan/i REJECT Spam Body: Are you qualified to get a Home Modification Loan
 /Are You Writing the Next Great Novel?/i REJECT Spam Body: Are You Writing the Next Great Novel?
+/ATTN: Email Subscription Removal/i REJECT Spam Body: ATTN: Email Subscription Removal
+/Automobile dealerships in your area are lowering prices/i REJECT Spam Body: Automobile dealerships in your area are lowering prices
+/Auto-Price-Finder.com/i REJECT Spam Body: Auto-Price-Finder.com
 /Avandia Side-Effects: Heart Related Injuries, Broken Bones and Liver Failure/i REJECT Spam Body: Avandia Side-Effects: Heart Related Injuries, Broken Bones and Liver Failure
+/Avoid the hassle of long lines/i REJECT Spam Body: Avoid the hassle of long lines
 /\b100DayLoans\.com\b/ REJECT Spam Host: 100DayLoans\.com
 /\b101host\.biz\b/ REJECT Spam Host: 101host\.biz
 /\b12hen\.info\b/ REJECT Spam Host: 12hen\.info
@@ -72,6 +79,7 @@
 /\bantiquesworld\.com\b/ REJECT Spam Host: antiquesworld\.com
 /\bappuyezw\.com\b/ REJECT Spam Host: appuyezw\.com
 /\bareax\.biz\b/ REJECT Spam Host: areax\.biz
+/Bart0n-Publishing/i REJECT Spam Body: Bart0n-Publishing
 /\basw3s\.com\b/ REJECT Spam Host: asw3s\.com
 /\batlast7\.com\b/ REJECT Spam Host: atlast7\.com
 /\bautomarketing\.org\b/ REJECT Spam Host: automarketing\.org
@@ -474,7 +482,7 @@
 /\bzednet\.net\b/ REJECT Spam Host: zednet\.net
 /\bzerosecond\.biz\b/ REJECT Spam Host: zerosecond\.biz
 /\bzettanetwork\.com\b/ REJECT Spam Host: zettanetwork\.com
-/Cancel email distributions from this client:/i REJECT Spam Body: Cancel email distributions from this client:
+/Cancel\w+email\w+distributions\w+from\w+this\w+client/i REJECT Spam Body: Cancel\w+email\w+distributions\w+from\w+this\w+client
 /Cant display our Ad beneath/i REJECT Spam Body: Cant display our Ad beneath
 /C-a-r-s-o-n C-i-ty Nevada/i REJECT Spam Body: C-a-r-s-o-n C-i-ty Nevada
 /Cash.com Holiday Loan/i REJECT Spam Body: Cash.com Holiday Loan
@@ -498,12 +506,15 @@
 /Cyber Crime Investigations/i REJECT Spam Body: Cyber Crime Investigations
 /Dealers Are WAY overstocked/i REJECT Spam Body: Dealers Are WAY overstocked
 /deals with wireless security cameras/i REJECT Spam Body: deals with wireless security cameras
+/Dear Car Owner/i REJECT Spam Body: Dear Car Owner
 /DELL is giving away a FREE/i REJECT Spam Body: DELL is giving away a FREE
 /Designer-Shoes-on-sale/i REJECT Spam Body: Designer-Shoes-on-sale
 /DirectBuy is the #1 home improvement and furnishing club./i REJECT Spam Body: DirectBuy is the #1 home improvement and furnishing club.
 /Discount Air Conditioners - energy efficient/i REJECT Spam Body: Discount Air Conditioners - energy efficient
 /Discover the Benefits of Incorporating in Nevada/i REJECT Spam Body: Discover the Benefits of Incorporating in Nevada
+/Don't Delay the funds you need any longer/i REJECT Spam Body: Don't Delay the funds you need any longer
 /Earn massive profits from home/i REJECT Spam Body: Earn massive profits from home
+/EFE-Madison Productions/i REJECT Spam Body: EFE-Madison Productions
 /End Future offer by writing to that address also/i REJECT Spam Body: End Future offer by writing to that address also
 /Enter Your Zip Code On Next Page To See YOUR Possible Billing Refund/i REJECT Spam Body: Enter Your Zip Code On Next Page To See YOUR Possible Billing Refund
 /EthixMarketing/i REJECT Spam Body: EthixMarketing
@@ -518,6 +529,7 @@
 /FREE Dell XPS /i REJECT Spam Body: FREE Dell XPS 
 /FreeScore360/i REJECT Spam Body: FreeScore360
 /Gain the training needed to help a pharmacist/i REJECT Spam Body: Gain the training needed to help a pharmacist
+/Genuine Flavor and Inhalation Feel/i REJECT Spam Body: Genuine Flavor and Inhalation Feel
 /Get 7 days F-R-E-E/i REJECT Spam Body: Get 7 days F-R-E-E
 /Get a FREE* phone/i REJECT Spam Body: Get a FREE* phone
 /get-a-healthcare-education/i REJECT Spam Body: get-a-healthcare-education
@@ -525,7 +537,6 @@
 /Get a new air conditioner and get the comfort /i REJECT Spam Body: Get a new air conditioner and get the comfort 
 /Get a Term Life Insurance Quote, its Free, Fast and Easy!/i REJECT Spam Body: Get a Term Life Insurance Quote, its Free, Fast and Easy!
 /Get Paid To Play and Test New Games/i REJECT Spam Body: Get Paid To Play and Test New Games
-/Get the cash you need quickly and have more flexibility to repay it on your terms/i REJECT Spam Body: Get the cash you need quickly and have more flexibility to repay it on your terms
 /Get the cash you need quickly and have more flexibility to repay it on your terms/i REJECT Spam Body: Get the cash you need quickly and have more flexibility to repay it on your terms
 /Get up to $1,000 in as little as one hour/i REJECT Spam Body: Get up to $1,000 in as little as one hour
 /Get your degree in Medical Billing/i REJECT Spam Body: Get your degree in Medical Billing
@@ -546,8 +557,9 @@
 /Great Gifts for a Laid Back Father/i REJECT Spam Body: Great Gifts for a Laid Back Father
 /H0ust0n, T-X/i REJECT Spam Body: H0ust0n, T-X
 /Have you dreamed about being a Pharmacy Assistant?/i REJECT Spam Body: Have you dreamed about being a Pharmacy Assistant?
+/Head Start on your Holiday Shopping/i REJECT Spam Body: Head Start on your Holiday Shopping
 /Help your teen get on the straight and narrow/i REJECT Spam Body: Help your teen get on the straight and narrow
-/Help your teen get on the straight and narrow/i REJECT Spam Body: Help your teen get on the straight and narrow
+/highly sought after electronics for often 1/6th normal/i REJECT Spam Body: highly sought after electronics for often 1/6th normal
 /HomeWarranty101,/i REJECT Spam Body: HomeWarranty101,
 /Hope you enjoy this Health and Education Newsletter promotion/i REJECT Spam Body: Hope you enjoy this Health and Education Newsletter promotion
 /Hottest Online Shopping Craze/i REJECT Spam Body: Hottest Online Shopping Craze
@@ -558,12 +570,15 @@
 /if you do not wish to be contacted by /i REJECT Spam Body: if you do not wish to be contacted by 
 /If you'd prefer not to receive Advertisements/i REJECT Spam Body: If you'd prefer not to receive Advertisements
 /if you no longer wish to receive emails from this advertiser/i REJECT Spam Body: if you no longer wish to receive emails from this advertiser
+/If you wish to disable communication from future emails/i REJECT Spam Body: If you wish to disable communication from future emails
 /If you wish to stop receiving these promos/i REJECT Spam Body: If you wish to stop receiving these promos
 /If you would like to cut off future messages:/i REJECT Spam Body: If you would like to cut off future messages:
 /If you would like to stop seeing messages from:/i REJECT Spam Body: If you would like to stop seeing messages from:
+/Incredible "Immersion Technique" /i REJECT Spam Body: Incredible "Immersion Technique" 
 /INCREDIBLE INCENTIVES/i REJECT Spam Body: INCREDIBLE INCENTIVES
 /Injection Free Winkle Reduction/i REJECT Spam Body: Injection Free Winkle Reduction
 /<input type="hidden" id="gwProxy" \/><!--Session data--><input type="hidden" id="jsProxy" \/>/i REJECT Spam Body: <input type="hidden" id="gwProxy" \/><!--Session data--><input type="hidden" id="jsProxy" \/>
+/Instantly end communications from site owner/i REJECT Spam Body: Instantly end communications from site owner
 /Jobs Are Hiring Again - Work While You Train/i REJECT Spam Body: Jobs Are Hiring Again - Work While You Train
 /Learn about VA Loan programs and benefits/i REJECT Spam Body: Learn about VA Loan programs and benefits
 /Learn how to gain the skills required to work in the health care field/i REJECT Spam Body: Learn how to gain the skills required to work in the health care field
@@ -586,6 +601,8 @@
 /Medical Insurance made SIMPLE from Medicare/i REJECT Spam Body: Medical Insurance made SIMPLE from Medicare
 /Meet Like-Minded Singles/i REJECT Spam Body: Meet Like-Minded Singles
 /members have invited you to join Singlesnet/i REJECT Spam Body: members have invited you to join Singlesnet
+/merchandise at closeout prices/i REJECT Spam Body: merchandise at closeout prices
+/Mesh Patches surgical/i REJECT Spam Body: Mesh Patches surgical
 /Millions of Americans are overpaying for COBRA/i REJECT Spam Body: Millions of Americans are overpaying for COBRA
 /My Timeshare Expert/i REJECT Spam Body: My Timeshare Expert
 /NEW Relief Package to Get You OUT of DEBT/i REJECT Spam Body: NEW Relief Package to Get You OUT of DEBT
@@ -594,24 +611,32 @@
 /No longer get future newsletters,this/i REJECT Spam Body: No longer get future newsletters,this
 /\n\s**\n\s*\n\s*\n\s*\n\s*\n\s*\nClick this link to unsubscribe/i REJECT Spam Body: \n\s**\n\s*\n\s*\n\s*\n\s*\n\s*\nClick this link to unsubscribe
 /NTERNATIONAL PRIZE AWARD DEPARTMENT/i REJECT Spam Body: NTERNATIONAL PRIZE AWARD DEPARTMENT
+/Offer brought to you by: DEAS Net Services/i REJECT Spam Body: Offer brought to you by: DEAS Net Services
 /of FREE COFFEE/i REJECT Spam Body: of FREE COFFEE
 /One Night Stand Dating Community for Adults/i REJECT Spam Body: One Night Stand Dating Community for Adults
 //P0B0x/i REJECT Spam Body: /P0B0x
+/P0st 0ffice b0x /i REJECT Spam Body: P0st 0ffice b0x 
 /PAID POSITIONS AFTER TRAINING/i REJECT Spam Body: PAID POSITIONS AFTER TRAINING
 /Past school friends are currently searching for you./i REJECT Spam Body: Past school friends are currently searching for you.
+/Patch Melts Away Flab/i REJECT Spam Body: Patch Melts Away Flab
+/pay for name brand merchandise from top/i REJECT Spam Body: pay for name brand merchandise from top
 /PENDING: Government money may be available for you./i REJECT Spam Body: PENDING: Government money may be available for you.
 /Personalized Santa Letter has been reserved/i REJECT Spam Body: Personalized Santa Letter has been reserved
 /Person wants to be your partner!/i REJECT Spam Body: Person wants to be your partner!
 /PetCareRx.com, America's Most Affordable Pet Pharmacy/i REJECT Spam Body: PetCareRx.com, America's Most Affordable Pet Pharmacy
 /Please Review now To prevent potential audit from the IRS/i REJECT Spam Body: Please Review now To prevent potential audit from the IRS
+/Please (take advantage of|check out) this Educational Health (Newsletter|mailing)/i REJECT Spam Body: Please (take advantage of|check out) this Educational Health (Newsletter|mailing)
+/Please use this URL to quit all future communications/i REJECT Spam Body: Please use this URL to quit all future communications
 /PLUS a 7-Day Trial of 3 Bureau Credit Monitoring/i REJECT Spam Body: PLUS a 7-Day Trial of 3 Bureau Credit Monitoring
 /PO Box 54zero90one/i REJECT Spam Body: PO Box 54zero90one
+/P.:O B.o.x/i REJECT Spam Body: P.:O B.o.x
 /Premium Cigars/i REJECT Spam Body: Premium Cigars
 /Prepare for a career in law enforcement, corrections or homeland security./i REJECT Spam Body: Prepare for a career in law enforcement, corrections or homeland security.
 /PRESS HERE IF YOU WANT TO SLEEP WITH A CHEATING WIFE/i REJECT Spam Body: PRESS HERE IF YOU WANT TO SLEEP WITH A CHEATING WIFE
 /PRESS HERE to hook up with a Married woman/i REJECT Spam Body: PRESS HERE to hook up with a Married woman
 /printout oil change coupons/i REJECT Spam Body: printout oil change coupons
 /Professional email management by VipList.us/i REJECT Spam Body: Professional email management by VipList.us
+/Quit Smoking Once and For All/i REJECT Spam Body: Quit Smoking Once and For All
 /Receive Permanent Suspension of Some Bills. Start/i REJECT Spam Body: Receive Permanent Suspension of Some Bills. Start
 /Red Lobster food on us/i REJECT Spam Body: Red Lobster food on us
 /Red Lobster Gift Card/i REJECT Spam Body: Red Lobster Gift Card
@@ -619,11 +644,13 @@
 /Reputable .. Name Brand Tires/i REJECT Spam Body: Reputable .. Name Brand Tires
 /Request Free Education and Training package/i REJECT Spam Body: Request Free Education and Training package
 /Request your FREE Nevada Edge Book and DVD today!/i REJECT Spam Body: Request your FREE Nevada Edge Book and DVD today!
+/Revealing Drs.video /i REJECT Spam Body: Revealing Drs.video 
 /reward programs/APR rates all compare side by side/i REJECT Spam Body: reward programs/APR rates all compare side by side
 /Save big on a quality steel building/i REJECT Spam Body: Save big on a quality steel building
 /Save big on cheap airline tickets here:/i REJECT Spam Body: Save big on cheap airline tickets here:
 /savecashdirect.com/i REJECT Spam Body: savecashdirect.com
 /SaveCashDirect/i REJECT Spam Body: SaveCashDirect
+/save hundreds if not thousands off your home payment/i REJECT Spam Body: save hundreds if not thousands off your home payment
 /Save on dental insurance/i REJECT Spam Body: Save on dental insurance
 /See below For more information about My Fun Cards, including our address and discontinue link/i REJECT Spam Body: See below For more information about My Fun Cards, including our address and discontinue link
 /Show Me All 3 Credit Reports, FREE! /i REJECT Spam Body: Show Me All 3 Credit Reports, FREE! 
@@ -634,6 +661,8 @@
 /----STANDARD TEMPLATE PLAIN TABLE BORDERS----/i REJECT Spam Body: ----STANDARD TEMPLATE PLAIN TABLE BORDERS----
 /Starlight LinkRev Partners/i REJECT Spam Body: Starlight LinkRev Partners
 /Start a rewarding career in Social Work/i REJECT Spam Body: Start a rewarding career in Social Work
+/Start your early Holiday Shopping today/i REJECT Spam Body: Start your early Holiday Shopping today
+/Status: Pre_Approved/i REJECT Spam Body: Status: Pre_Approved
 /Stay connected with friends and family with a new phone today:/i REJECT Spam Body: Stay connected with friends and family with a new phone today:
 /STOP CRIME by joining the training force in/i REJECT Spam Body: STOP CRIME by joining the training force in
 /Stop emails here .../i REJECT Spam Body: Stop emails here ...
@@ -642,10 +671,14 @@
 /style="color:#FFF*; font-size:1px; width:600px;">/i REJECT Spam Body: style="color:#FFF*; font-size:1px; width:600px;">
 /Submit your Idea 100% Confidential/i REJECT Spam Body: Submit your Idea 100% Confidential
 /Superior Smoking Alternatives/i REJECT Spam Body: Superior Smoking Alternatives
+/surgical Mesh Patch /i REJECT Spam Body: surgical Mesh Patch 
+/Surgical Mesh Patch/i REJECT Spam Body: Surgical Mesh Patch
 /Take advantage of your own tax dollars. Apply for a government grant./i REJECT Spam Body: Take advantage of your own tax dollars. Apply for a government grant.
 /Take-Me-0ff//i REJECT Spam Body: Take-Me-0ff/
 /<td><div align="center"><a href="http:\/\/\w{5,}.\w]{8,}.com/\w{20,}"><img src="http:\/\/\w{5,}.\w{8,}.com\/images\/\w{8,}.gif" width="266" height="40" border="0"><\/a><\/div><\/td>/i REJECT Spam Body: <td><div align="center"><a href="http:\/\/\w{5,}.\w]{8,}.com/\w{20,}"><img src="http:\/\/\w{5,}.\w{8,}.com\/images\/\w{8,}.gif" width="266" height="40" border="0"><\/a><\/div><\/td>
+/Templeton-Davis Net Partners/i REJECT Spam Body: Templeton-Davis Net Partners
 /The Money You Need in As little as 1 hour/i REJECT Spam Body: The Money You Need in As little as 1 hour
+/the most talked about shopping center on the net/i REJECT Spam Body: the most talked about shopping center on the net
 /The most trusted name in installment purchasing/i REJECT Spam Body: The most trusted name in installment purchasing
 /There is no commitment necessary to Review The Details./i REJECT Spam Body: There is no commitment necessary to Review The Details.
 /The YoshiBlade is made from diamond hard Zirconium Oxide/i REJECT Spam Body: The YoshiBlade is made from diamond hard Zirconium Oxide
@@ -658,6 +691,7 @@
 /This is a product enhancing consumer newsletter/i REJECT Spam Body: This is a product enhancing consumer newsletter
 /This is a third party advertisement sent to you/i REJECT Spam Body: This is a third party advertisement sent to you
 /This recurring campaign contains advertising. This campaign is delivered by: Jet Set Special/i REJECT Spam Body: This recurring campaign contains advertising. This campaign is delivered by: Jet Set Special
+/Thousands of highly sought after electronics for /i REJECT Spam Body: Thousands of highly sought after electronics for 
 /Thousands of Overstocked/i REJECT Spam Body: Thousands of Overstocked
 /<title>(get your free $100* \w+ gift card|get your free ugg boots.*|join aarp|magic jack)!*<\/title> /i REJECT Spam Body: <title>(get your free $100* \w+ gift card|get your free ugg boots.*|join aarp|magic jack)!*<\/title> 
 /To avoid future solicitations and messages:/i REJECT Spam Body: To avoid future solicitations and messages:
@@ -665,16 +699,22 @@
 /To be taken out of Bentley Light Speed Media Delivery/i REJECT Spam Body: To be taken out of Bentley Light Speed Media Delivery
 /To (cancel|cease|delete|end|halt|stop) (all|further|future) (Ad Messages|Advertisements|Ads) (click|follow|go|tap)/i REJECT Spam Body: To (cancel|cease|delete|end|halt|stop) (all|further|future) (Ad Messages|Advertisements|Ads) (click|follow|go|tap)
 /To (cancel|cease|end|halt|stop) (all|further|more|these) (Ad Messages|Advertisements|Ads) see link below/i REJECT Spam Body: To (cancel|cease|end|halt|stop) (all|further|more|these) (Ad Messages|Advertisements|Ads) see link below
+/To cease Ads tap here/i REJECT Spam Body: To cease Ads tap here
 /To cease further ads go below/i REJECT Spam Body: To cease further ads go below
+/To disable communication visit/i REJECT Spam Body: To disable communication visit
+/To end these messages to you check this/i REJECT Spam Body: To end these messages to you check this
 /To halt further Ad Messages go below/i REJECT Spam Body: To halt further Ad Messages go below
 /To No Longer Receive Our Ads To/i REJECT Spam Body: To No Longer Receive Our Ads To
 /TOP 5 REASONS YOU NEED LIFE INSURANCE/i REJECT Spam Body: TOP 5 REASONS YOU NEED LIFE INSURANCE
+/To remove yourself from this list/i REJECT Spam Body: To remove yourself from this list
 /_To_Stop_Being_Contacted_/i REJECT Spam Body: _To_Stop_Being_Contacted_
 /To stop receiving announcements from this advertiser/i REJECT Spam Body: To stop receiving announcements from this advertiser
 /To stop receiving emails for this offer only please visit here:/i REJECT Spam Body: To stop receiving emails for this offer only please visit here:
 /to thank its loyal customers, is giving away /i REJECT Spam Body: to thank its loyal customers, is giving away 
 /T o un subscribe, cli ck b elow/i REJECT Spam Body: T o un subscribe, cli ck b elow
 /To unsubscribe from future advertisements from /i REJECT Spam Body: To unsubscribe from future advertisements from 
+/To unsubscribe from future mailings/i REJECT Spam Body: To unsubscribe from future mailings
+/To unsubscribe, please send an email to/i REJECT Spam Body: To unsubscribe, please send an email to
 /To un subscribe, please visit:/i REJECT Spam Body: To un subscribe, please visit:
 /Train in Medical Billing & Coding Programs Online or at a School Near You./i REJECT Spam Body: Train in Medical Billing & Coding Programs Online or at a School Near You.
 /Transunion, Equifax and Experian CreditReports and Scores./i REJECT Spam Body: Transunion, Equifax and Experian CreditReports and Scores.
@@ -687,21 +727,25 @@
 /View now at no cost to you, and also receive score monitoring at all three major bureaus/i REJECT Spam Body: View now at no cost to you, and also receive score monitoring at all three major bureaus
 /Vinyl Siding is perfect for your home: Tough, Affordable, and Quick./i REJECT Spam Body: Vinyl Siding is perfect for your home: Tough, Affordable, and Quick.
 /visit our email_removal site/i REJECT Spam Body: visit our email_removal site
+/week premium auto insurance for a limited time/i REJECT Spam Body: week premium auto insurance for a limited time
 /Welcome to our consumer adver-cational promotion/i REJECT Spam Body: Welcome to our consumer adver-cational promotion
-/Welcome to our edu-adver-cational distribution/i REJECT Spam Body: Welcome to our edu-adver-cational distribution
 /Welcome to our edu-adver-cational distribution/i REJECT Spam Body: Welcome to our edu-adver-cational distribution
 /Welcome to the Direct Buy Club/i REJECT Spam Body: Welcome to the Direct Buy Club
 /What's Your RealAge/i REJECT Spam Body: What's Your RealAge
 /where single moms were earning up to/i REJECT Spam Body: where single moms were earning up to
 /WHILE SUPPLIES_LAST/i REJECT Spam Body: WHILE SUPPLIES_LAST
 /With rates at historic lows, Life Insurance is more affordable than ever!/i REJECT Spam Body: With rates at historic lows, Life Insurance is more affordable than ever!
-/"Wonderful coupon that can not be passed up"/i REJECT Spam Body: "Wonderful coupon that can not be passed up"
+/Wonderful coupon that can not be passed up/i REJECT Spam Body: Wonderful coupon that can not be passed up
 /Work While You Train/i REJECT Spam Body: Work While You Train
+/www.ink-cartridge-site.com/i REJECT Spam Body: www.ink-cartridge-site.com
+/You are not alone. Many families are struggling/i REJECT Spam Body: You are not alone. Many families are struggling
 /You Can Achieve a 700+ Credit Score/i REJECT Spam Body: You Can Achieve a 700+ Credit Score
+/You don't have to hit the gym to lose the pounds/i REJECT Spam Body: You don't have to hit the gym to lose the pounds
 /You have been pre-approved, so access your cash now:/i REJECT Spam Body: You have been pre-approved, so access your cash now:
 /You have been selected to join AARP/i REJECT Spam Body: You have been selected to join AARP
 /You have read an .dvertisement/i REJECT Spam Body: You have read an .dvertisement
 /You opted-in to receive this message by providing your email address to .* third party email marketing partners/i REJECT Spam Body: You opted-in to receive this message by providing your email address to .* third party email marketing partners
+/Your Approved Christmas Cash/i REJECT Spam Body: Your Approved Christmas Cash
 /Your career as a Pharmacy Assistant/i REJECT Spam Body: Your career as a Pharmacy Assistant
 /Your Credit-Score may have been adjusted/i REJECT Spam Body: Your Credit-Score may have been adjusted
 /You're about to enjoy lower interest rates, better job opportunities, higher credit limits on credit cards./i REJECT Spam Body: You're about to enjoy lower interest rates, better job opportunities, higher credit limits on credit cards.
@@ -717,4 +761,6 @@
 /Your Trans Union, Equifax, and Experian credit scores may have changed/i REJECT Spam Body: Your Trans Union, Equifax, and Experian credit scores may have changed
 /Your TransUnion, Equifax, and Experian credit scores may have changed/i REJECT Spam Body: Your TransUnion, Equifax, and Experian credit scores may have changed
 /Your TransUnion, Equifax, and Experian Scores may have changed./i REJECT Spam Body: Your TransUnion, Equifax, and Experian Scores may have changed.
+/You've been pre-approved for an advance /i REJECT Spam Body: You've been pre-approved for an advance 
+/You've Been Pre-Approved. Please Access Your Funds Here./i REJECT Spam Body: You've Been Pre-Approved. Please Access Your Funds Here.
 /You've been selected to recieve Great Coupons/i REJECT Spam Body: You've been selected to recieve Great Coupons
