@@ -1,7 +1,9 @@
 /100 day loans, pay day loans, get money,/i REJECT Spam Body: 100 day loans, pay day loans, get money,
 /11231 nw 20st unit 140/i REJECT Spam Body: 11231 nw 20st unit 140
 /1ClickPrizesSweepstakes/i REJECT Spam Body: 1ClickPrizesSweepstakes
+/2000 Palm Beach Lakes Blvd. Suite 800/i REJECT Spam Body: 2000 Palm Beach Lakes Blvd. Suite 800
 /233 Wall Street Suite 177/i REJECT Spam Body: 233 Wall Street Suite 177
+/3540 Dakota Ave. St. Louis Park, MN 55416/i REJECT Spam Body: 3540 Dakota Ave. St. Louis Park, MN 55416
 /4 Randall Street Greenville/i REJECT Spam Body: 4 Randall Street Greenville
 /&#85&#110&#115&#117&#98&#115cri&#98e/i REJECT Spam Body: &#85&#110&#115&#117&#98&#115cri&#98e
 /about this amazing FREE prepaid card from Visa!/i REJECT Spam Body: about this amazing FREE prepaid card from Visa!
@@ -486,6 +488,7 @@
 /Cant display our Ad beneath/i REJECT Spam Body: Cant display our Ad beneath
 /C-a-r-s-o-n C-i-ty Nevada/i REJECT Spam Body: C-a-r-s-o-n C-i-ty Nevada
 /Cash.com Holiday Loan/i REJECT Spam Body: Cash.com Holiday Loan
+/CASH For Your Timeshare/i REJECT Spam Body: CASH For Your Timeshare
 /Cease mailings from us:/i REJECT Spam Body: Cease mailings from us:
 /Chart your Success in Medical Billing & Coding/i REJECT Spam Body: Chart your Success in Medical Billing & Coding
 /Cheating Wives Looking To Date!/i REJECT Spam Body: Cheating Wives Looking To Date!
@@ -495,6 +498,7 @@
 /Cigirex E-Cigarette/i REJECT Spam Body: Cigirex E-Cigarette
 /Clearance Prices on Automobiles Near /i REJECT Spam Body: Clearance Prices on Automobiles Near 
 /Click here to confirm you free Carnival Cruise!/i REJECT Spam Body: Click here to confirm you free Carnival Cruise!
+/COBRA health insurance.../i REJECT Spam Body: COBRA health insurance...
 /Compare and Save on Auto Insurance/i REJECT Spam Body: Compare and Save on Auto Insurance
 /Compare quotes and save on dental insurance/i REJECT Spam Body: Compare quotes and save on dental insurance
 /Complications with Mesh Surgery/i REJECT Spam Body: Complications with Mesh Surgery
@@ -524,6 +528,7 @@
 /Find a Local Certified Nursing Assistant Program/i REJECT Spam Body: Find a Local Certified Nursing Assistant Program
 /Find-a-variety-of-holiday-photo-cards_online/i REJECT Spam Body: Find-a-variety-of-holiday-photo-cards_online
 /Find out how to become an Ultrasound Technician/i REJECT Spam Body: Find out how to become an Ultrasound Technician
+/Flex-Able Hose/i REJECT Spam Body: Flex-Able Hose
 /Flirty Married Women want to date new people this week/i REJECT Spam Body: Flirty Married Women want to date new people this week
 /Free coffee at Starbucks/i REJECT Spam Body: Free coffee at Starbucks
 /FREE Dell XPS /i REJECT Spam Body: FREE Dell XPS 
@@ -536,6 +541,7 @@
 /Get an Ecig Starter Kit/i REJECT Spam Body: Get an Ecig Starter Kit
 /Get a new air conditioner and get the comfort /i REJECT Spam Body: Get a new air conditioner and get the comfort 
 /Get a Term Life Insurance Quote, its Free, Fast and Easy!/i REJECT Spam Body: Get a Term Life Insurance Quote, its Free, Fast and Easy!
+/Get High School Thin/i REJECT Spam Body: Get High School Thin
 /Get Paid To Play and Test New Games/i REJECT Spam Body: Get Paid To Play and Test New Games
 /Get the cash you need quickly and have more flexibility to repay it on your terms/i REJECT Spam Body: Get the cash you need quickly and have more flexibility to repay it on your terms
 /Get up to $1,000 in as little as one hour/i REJECT Spam Body: Get up to $1,000 in as little as one hour
@@ -614,6 +620,7 @@
 /Offer brought to you by: DEAS Net Services/i REJECT Spam Body: Offer brought to you by: DEAS Net Services
 /of FREE COFFEE/i REJECT Spam Body: of FREE COFFEE
 /One Night Stand Dating Community for Adults/i REJECT Spam Body: One Night Stand Dating Community for Adults
+/Organic Weight Loss/i REJECT Spam Body: Organic Weight Loss
 //P0B0x/i REJECT Spam Body: /P0B0x
 /P0st 0ffice b0x /i REJECT Spam Body: P0st 0ffice b0x 
 /PAID POSITIONS AFTER TRAINING/i REJECT Spam Body: PAID POSITIONS AFTER TRAINING
@@ -629,6 +636,7 @@
 /Please use this URL to quit all future communications/i REJECT Spam Body: Please use this URL to quit all future communications
 /PLUS a 7-Day Trial of 3 Bureau Credit Monitoring/i REJECT Spam Body: PLUS a 7-Day Trial of 3 Bureau Credit Monitoring
 /PO Box 54zero90one/i REJECT Spam Body: PO Box 54zero90one
+/P.O.Box 991, Ashburn, Virginia 20146/i REJECT Spam Body: P.O.Box 991, Ashburn, Virginia 20146
 /P.:O B.o.x/i REJECT Spam Body: P.:O B.o.x
 /Premium Cigars/i REJECT Spam Body: Premium Cigars
 /Prepare for a career in law enforcement, corrections or homeland security./i REJECT Spam Body: Prepare for a career in law enforcement, corrections or homeland security.
@@ -640,6 +648,7 @@
 /Receive Permanent Suspension of Some Bills. Start/i REJECT Spam Body: Receive Permanent Suspension of Some Bills. Start
 /Red Lobster food on us/i REJECT Spam Body: Red Lobster food on us
 /Red Lobster Gift Card/i REJECT Spam Body: Red Lobster Gift Card
+/Refinance Now and Save Your Money/i REJECT Spam Body: Refinance Now and Save Your Money
 /Replace your roof - modern technology/i REJECT Spam Body: Replace your roof - modern technology
 /Reputable .. Name Brand Tires/i REJECT Spam Body: Reputable .. Name Brand Tires
 /Request Free Education and Training package/i REJECT Spam Body: Request Free Education and Training package
@@ -681,6 +690,7 @@
 /the most talked about shopping center on the net/i REJECT Spam Body: the most talked about shopping center on the net
 /The most trusted name in installment purchasing/i REJECT Spam Body: The most trusted name in installment purchasing
 /There is no commitment necessary to Review The Details./i REJECT Spam Body: There is no commitment necessary to Review The Details.
+/The Shower/Bath Carpet /i REJECT Spam Body: The Shower/Bath Carpet 
 /The YoshiBlade is made from diamond hard Zirconium Oxide/i REJECT Spam Body: The YoshiBlade is made from diamond hard Zirconium Oxide
 /This email is a commercial advertisement sent/i REJECT Spam Body: This email is a commercial advertisement sent
 /This email is an advertisement sent to/i REJECT Spam Body: This email is an advertisement sent to
@@ -711,6 +721,7 @@
 /To stop receiving announcements from this advertiser/i REJECT Spam Body: To stop receiving announcements from this advertiser
 /To stop receiving emails for this offer only please visit here:/i REJECT Spam Body: To stop receiving emails for this offer only please visit here:
 /to thank its loyal customers, is giving away /i REJECT Spam Body: to thank its loyal customers, is giving away 
+/To Unsub-/i REJECT Spam Body: To Unsub-
 /T o un subscribe, cli ck b elow/i REJECT Spam Body: T o un subscribe, cli ck b elow
 /To unsubscribe from future advertisements from /i REJECT Spam Body: To unsubscribe from future advertisements from 
 /To unsubscribe from future mailings/i REJECT Spam Body: To unsubscribe from future mailings
@@ -722,11 +733,13 @@
 /T\s+O\s+S\s+T\s+O\s+P\s+R\s+e\s+C\s+E\s+I\s+V\s+I\s+N\s+G/i REJECT Spam Body: T\s+O\s+S\s+T\s+O\s+P\s+R\s+e\s+C\s+E\s+I\s+V\s+I\s+N\s+G
 /University of Phoenix will help you gain the education/i REJECT Spam Body: University of Phoenix will help you gain the education
 /Unlimited repairs on your home are available today:/i REJECT Spam Body: Unlimited repairs on your home are available today:
+/(Unsub|No Thanks) *- *http/i REJECT Spam Body: (Unsub|No Thanks) *- *http
 /Using this technique, one man <b>lost over 100lbs/i REJECT Spam Body: Using this technique, one man <b>lost over 100lbs
 /Veterans Only - GI Bill Info/i REJECT Spam Body: Veterans Only - GI Bill Info
 /View now at no cost to you, and also receive score monitoring at all three major bureaus/i REJECT Spam Body: View now at no cost to you, and also receive score monitoring at all three major bureaus
 /Vinyl Siding is perfect for your home: Tough, Affordable, and Quick./i REJECT Spam Body: Vinyl Siding is perfect for your home: Tough, Affordable, and Quick.
 /visit our email_removal site/i REJECT Spam Body: visit our email_removal site
+/We can help you with IRS Tax Debt/i REJECT Spam Body: We can help you with IRS Tax Debt
 /week premium auto insurance for a limited time/i REJECT Spam Body: week premium auto insurance for a limited time
 /Welcome to our consumer adver-cational promotion/i REJECT Spam Body: Welcome to our consumer adver-cational promotion
 /Welcome to our edu-adver-cational distribution/i REJECT Spam Body: Welcome to our edu-adver-cational distribution

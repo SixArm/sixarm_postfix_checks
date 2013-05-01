@@ -4,7 +4,10 @@
 /From: .*AARP (Deals|Membership)/i REJECT Spam From: AARP (Deals|Membership)
 /From: .*Accounting Degree <info@m/i REJECT Spam From: Accounting Degree <info@m
 /From: .*AccountingEducation/i REJECT Spam From: AccountingEducation
+/From: .*Accredited Online Grad Degree/i REJECT Spam From: Accredited Online Grad Degree
+/From: .*ADD or ADHD/i REJECT Spam From: ADD or ADHD
 /From: .*Affordable Health-Rates <info@/i REJECT Spam From: Affordable Health-Rates <info@
+/From: .*Affordable Insurance /i REJECT Spam From: Affordable Insurance 
 /From: .*Affordable Senior Care/i REJECT Spam From: Affordable Senior Care
 /From: .*Affordable Walk-in Tubs/i REJECT Spam From: Affordable Walk-in Tubs
 /From: .*air-milecreditcard.com/i REJECT Spam From: air-milecreditcard.com
@@ -21,6 +24,8 @@
 /From: .*Auto-Dealer-Online/i REJECT Spam From: Auto-Dealer-Online
 /From: .*Auto Deals Online/i REJECT Spam From: Auto Deals Online
 /From: .*AutoPriceFinderDeals/i REJECT Spam From: AutoPriceFinderDeals
+/From: .*Auto-Price-Finder /i REJECT Spam From: Auto-Price-Finder 
+/From: .*Auto-Price-Finder/i REJECT Spam From: Auto-Price-Finder
 /From: .*AutoPriceFinder/i REJECT Spam From: AutoPriceFinder
 /From: .*Avandia Info /i REJECT Spam From: Avandia Info 
 /From: .*Awards notification/i REJECT Spam From: Awards notification
@@ -35,7 +40,9 @@
 /From: .*BetterVisionToday/i REJECT Spam From: BetterVisionToday
 /From: .*BidSauce/i REJECT Spam From: BidSauce
 /From: .*Bigger Bidder/i REJECT Spam From: Bigger Bidder
+/From: .*Blueberry Giant/i REJECT Spam From: Blueberry Giant
 /From: .*BOGO Business Cards/i REJECT Spam From: BOGO Business Cards
+/From: .*BOGO MSA 30X Sound Amplifier/i REJECT Spam From: BOGO MSA 30X Sound Amplifier
 /From: .*BrainHealthKit.com/i REJECT Spam From: BrainHealthKit.com
 /From: .*Bring Your Child Santa/i REJECT Spam From: Bring Your Child Santa
 /From: .*Burn fat while you sleep/i REJECT Spam From: Burn fat while you sleep
@@ -60,8 +67,10 @@
 /From: .*Complimentary Gift Cards/i REJECT Spam From: Complimentary Gift Cards
 /From: .*Credit.Check/i REJECT Spam From: Credit.Check
 /From: .*Credit Limit Raise <info@/i REJECT Spam From: Credit Limit Raise <info@
+/From: .*Credit Report Center /i REJECT Spam From: Credit Report Center 
 /From: .*CreditReport </i REJECT Spam From: CreditReport <
 /From: .*Credit Score Online/i REJECT Spam From: Credit Score Online
+/From: .*DailyBibleGuide/i REJECT Spam From: DailyBibleGuide
 /From: .*Davison Creative-Inventions/i REJECT Spam From: Davison Creative-Inventions
 /From: .*December Loan/i REJECT Spam From: December Loan
 /From: .*Depression Help /i REJECT Spam From: Depression Help 
@@ -74,12 +83,14 @@
 /From: .*DirectBuy Free Pass/i REJECT Spam From: DirectBuy Free Pass
 /From: .*Discount Ink /i REJECT Spam From: Discount Ink 
 /From: .*Discount Restaurant/i REJECT Spam From: Discount Restaurant
+/From: .*DiscountTravel /i REJECT Spam From: DiscountTravel 
 /From: .*DishPromo/i REJECT Spam From: DishPromo
 /From: .*Dish Promotions/i REJECT Spam From: Dish Promotions
 /From: .*Drive New Cars/i REJECT Spam From: Drive New Cars
 /From: .*Drop Four Dress Sizes/i REJECT Spam From: Drop Four Dress Sizes
 /From: .*Drop Weight While Sleeping /i REJECT Spam From: Drop Weight While Sleeping 
 /From: .*Drop Weight While Sleeping/i REJECT Spam From: Drop Weight While Sleeping
+/From: .*Drug_and_Alcohol_Treatment /i REJECT Spam From: Drug_and_Alcohol_Treatment 
 /From: .*Drug Treatment/i REJECT Spam From: Drug Treatment
 /From: .*DUI Attorneys/i REJECT Spam From: DUI Attorneys
 /From: .*EasyOnlineBachelorDegree/i REJECT Spam From: EasyOnlineBachelorDegree
@@ -95,6 +106,7 @@
 /From: .*Fibromyalgia/i REJECT Spam From: Fibromyalgia
 /From: .*Fibromyalgia Treatment/i REJECT Spam From: Fibromyalgia Treatment
 /From: .*Fibromyalgia Treatments/i REJECT Spam From: Fibromyalgia Treatments
+/From: .*findalaskacruises.com/i REJECT Spam From: findalaskacruises.com
 /From: .*Find Insurance/i REJECT Spam From: Find Insurance
 /From: .*Find Out Anything/i REJECT Spam From: Find Out Anything
 /From: .*Find the best Nail Fungus treatment/i REJECT Spam From: Find the best Nail Fungus treatment
@@ -110,7 +122,9 @@
 /From: .*Full Cheating Wives Profiles/i REJECT Spam From: Full Cheating Wives Profiles
 /From: .*Gain Language Skills /i REJECT Spam From: Gain Language Skills 
 /From: .*Game Testers - Train to Work/i REJECT Spam From: Game Testers - Train to Work
+/From: .*Gardeners’ Choice QuickLawn /i REJECT Spam From: Gardeners’ Choice QuickLawn 
 /From: .*Garden Hose Self /i REJECT Spam From: Garden Hose Self 
+/From: .*GenieBra Rewards /i REJECT Spam From: GenieBra Rewards 
 /From: .*Get Advance Approval/i REJECT Spam From: Get Advance Approval
 /From: .*GetKitchenCabinets/i REJECT Spam From: GetKitchenCabinets
 /From: .*Get Published <info@/i REJECT Spam From: Get Published <info@
@@ -121,6 +135,7 @@
 /From: .*Government Grants <info@/i REJECT Spam From: Government Grants <info@
 /From: .*Government Helps You Go Solar/i REJECT Spam From: Government Helps You Go Solar
 /From: .*Government Subsidizes Solar Conversions/i REJECT Spam From: Government Subsidizes Solar Conversions
+/From: .*Grow Fruit Tree/i REJECT Spam From: Grow Fruit Tree
 /From: .*GuideToLenders/i REJECT Spam From: GuideToLenders
 /From: .*GuideToRefinance/i REJECT Spam From: GuideToRefinance
 /From: .*Health Analysis <info@/i REJECT Spam From: Health Analysis <info@
@@ -133,6 +148,7 @@
 /From: .*Hip Recall/i REJECT Spam From: Hip Recall
 /From: .*Hip Recall Legal Center/i REJECT Spam From: Hip Recall Legal Center
 /From: .*Holiday Ford /i REJECT Spam From: Holiday Ford 
+/From: .*Home Ownership is Easy /i REJECT Spam From: Home Ownership is Easy 
 /From: .*House Payment Assistance/i REJECT Spam From: House Payment Assistance
 /From: .*House Payment Halfer /i REJECT Spam From: House Payment Halfer 
 /From: .*Hunger Stops Now/i REJECT Spam From: Hunger Stops Now
@@ -147,12 +163,14 @@
 /From: .*Instant Check Mate/i REJECT Spam From: Instant Check Mate
 /From: .*Instant Financial Aid/i REJECT Spam From: Instant Financial Aid
 /From: .*Instant Wallet Filler /i REJECT Spam From: Instant Wallet Filler 
+/From: .*Insurance Coverage Dept/i REJECT Spam From: Insurance Coverage Dept
 /From: .*InsureYourRide/i REJECT Spam From: InsureYourRide
 /From: .*Internet Phone/i REJECT Spam From: Internet Phone
 /From: .*Kitchen Cabinets <info@/i REJECT Spam From: Kitchen Cabinets <info@
 /From: .*Knee Replacement Alert <info@/i REJECT Spam From: Knee Replacement Alert <info@
 /From: .*Knee Replacement Alert/i REJECT Spam From: Knee Replacement Alert
 /From: .*Knee Replacement/i REJECT Spam From: Knee Replacement
+/From: .*Lasik Deals /i REJECT Spam From: Lasik Deals 
 /From: .*LasikEyeSurgery <LasikEyeSurgery@/i REJECT Spam From: LasikEyeSurgery <LasikEyeSurgery@
 /From: .*LASIK Vision/i REJECT Spam From: LASIK Vision
 /From: .*Learn a Language/i REJECT Spam From: Learn a Language
@@ -196,8 +214,10 @@
 /From: .*Mesh Patch Problem/i REJECT Spam From: Mesh Patch Problem
 /From: .*Mesh Patch Recall/i REJECT Spam From: Mesh Patch Recall
 /From: .*.*@mybestideatoday1.info/i REJECT Spam From: .*@mybestideatoday1.info
+/From: .*My Timeshare Resale /i REJECT Spam From: My Timeshare Resale 
 /From: .*Nail\s+Fungus /i REJECT Spam From: Nail\s+Fungus 
 /From: .*Natural Disaster Guide/i REJECT Spam From: Natural Disaster Guide
+/From: .*Naturally Lower Blood Pressure /i REJECT Spam From: Naturally Lower Blood Pressure 
 /From: .*NaughtyDating <info@/i REJECT Spam From: NaughtyDating <info@
 /From: .*need-oilchange.net/i REJECT Spam From: need-oilchange.net
 /From: .*New cell Phone <info@/i REJECT Spam From: New cell Phone <info@
@@ -212,17 +232,20 @@
 /From: .*Olive Garden Savings/i REJECT Spam From: Olive Garden Savings
 /From: .*One Hundred Day Loans/i REJECT Spam From: One Hundred Day Loans
 /From: .*Online Doctorate <info@/i REJECT Spam From: Online Doctorate <info@
+/From: .*Online Doctorate/i REJECT Spam From: Online Doctorate
 /From: .*OnlineDoctorate/i REJECT Spam From: OnlineDoctorate
 /From: .*Orchard Bank Credit Card/i REJECT Spam From: Orchard Bank Credit Card
 /From: .*Original Spacebag/i REJECT Spam From: Original Spacebag
 /From: .*Overstocked Auctions/i REJECT Spam From: Overstocked Auctions
 /From: .*OverstockedAuctions/i REJECT Spam From: OverstockedAuctions
+/From: .*ParalegalStudies/i REJECT Spam From: ParalegalStudies
 /From: .*Past School Friend <info@/i REJECT Spam From: Past School Friend <info@
 /From: .*Past School Friend/i REJECT Spam From: Past School Friend
 /From: .*Patch Weight Loss/i REJECT Spam From: Patch Weight Loss
 /From: .*Pay- day/Loans/i REJECT Spam From: Pay- day/Loans
 /From: .*PennyAuctions <PennyAuctions@/i REJECT Spam From: PennyAuctions <PennyAuctions@
 /From: .*PetCareRx <info@/i REJECT Spam From: PetCareRx <info@
+/From: .*Pet-Coupons/i REJECT Spam From: Pet-Coupons
 /From: .*Pet-Park-Pad/i REJECT Spam From: Pet-Park-Pad
 /From: .*PharmacyAssistantPrograms/i REJECT Spam From: PharmacyAssistantPrograms
 /From: .*Pimsleur?/i REJECT Spam From: Pimsleur?
@@ -230,10 +253,13 @@
 /From: .*Plaque Attack Pets/i REJECT Spam From: Plaque Attack Pets
 /From: .*Platinum Credit Cards /i REJECT Spam From: Platinum Credit Cards 
 /From: .*PlayPokerTonight/i REJECT Spam From: PlayPokerTonight
+/From: .*Pocket Hose Review/i REJECT Spam From: Pocket Hose Review
 /From: .*Postage Meter Prices /i REJECT Spam From: Postage Meter Prices 
+/From: .*Premium Business Cards /i REJECT Spam From: Premium Business Cards 
 /From: .*Prepaid Visa RushCard/i REJECT Spam From: Prepaid Visa RushCard
 /From: .*Price-New-Car/i REJECT Spam From: Price-New-Car
 /From: .*Private Jets /i REJECT Spam From: Private Jets 
+/From: .*QuckLawn As Seen on TV /i REJECT Spam From: QuckLawn As Seen on TV 
 /From: .*Quick Cash Advance /i REJECT Spam From: Quick Cash Advance 
 /From: .*QuickLoans/i REJECT Spam From: QuickLoans
 /From: .*Rapidly Drop Weight /i REJECT Spam From: Rapidly Drop Weight 
@@ -274,25 +300,33 @@
 /From: .*SurveillanceCamera/i REJECT Spam From: SurveillanceCamera
 /From: .*SUVs On Sale /i REJECT Spam From: SUVs On Sale 
 /From: .*SUVs On Sale/i REJECT Spam From: SUVs On Sale
+/From: .*Tax Debt Pro /i REJECT Spam From: Tax Debt Pro 
 /From: .*Term Life Insurers/i REJECT Spam From: Term Life Insurers
+/From: .*The  Bathtub Aqua Rug /i REJECT Spam From: The  Bathtub Aqua Rug 
+/From: .*The Blueberry Giant/i REJECT Spam From: The Blueberry Giant
 /From: .*Timeshare Sold/i REJECT Spam From: Timeshare Sold
 /From: .*TodaysCoupons/i REJECT Spam From: TodaysCoupons
 /From: .*Toll Free Numbers/i REJECT Spam From: Toll Free Numbers
 /From: .*Treats For The Little Ones /i REJECT Spam From: Treats For The Little Ones 
 /From: .*Tuition Assistance <info@/i REJECT Spam From: Tuition Assistance <info@
 /From: .*Turn her on </i REJECT Spam From: Turn her on <
+/From: .*TV's Flex-AbleHose/i REJECT Spam From: TV's Flex-AbleHose
+/From: .*TV's Hummingbird Vine /i REJECT Spam From: TV's Hummingbird Vine 
 /From: .*TV's Olde/i REJECT Spam From: TV's Olde
+/From: .*TV's Tag Away/i REJECT Spam From: TV's Tag Away
 /From: .*unlimitedcalling@/i REJECT Spam From: unlimitedcalling@
 /From: .*Urinary Mesh Patch/i REJECT Spam From: Urinary Mesh Patch
 /From: .*VA Loan <valoans@/i REJECT Spam From: VA Loan <valoans@
 /From: .*V A\s+Loans/i REJECT Spam From: V A\s+Loans
 /From: .*Vehicle Research Survey <VehicleResearchSurvey@/i REJECT Spam From: Vehicle Research Survey <VehicleResearchSurvey@
+/From: .*Vistaprint Offers /i REJECT Spam From: Vistaprint Offers 
 /From: .*War On ALS <WarOnALS@/i REJECT Spam From: War On ALS <WarOnALS@
 /From: .*WarrantyOptions <WarrantyOptions@/i REJECT Spam From: WarrantyOptions <WarrantyOptions@
 /From: .*We Clarify Medicare/i REJECT Spam From: We Clarify Medicare
 /From: .*Western Union Promo/i REJECT Spam From: Western Union Promo
 /From: .*Who'?s ?Who ?Registry/i REJECT Spam From: Who'?s ?Who ?Registry
 /From: .*Wireless Camera/i REJECT Spam From: Wireless Camera
+/From: .*Without Expensive Prescriptions!/i REJECT Spam From: Without Expensive Prescriptions!
 /From: .*Woodworking Craft Plans/i REJECT Spam From: Woodworking Craft Plans
 /From: .*Work at Home/i REJECT Spam From: Work at Home
 /From: .*YoshiBlade <info@/i REJECT Spam From: YoshiBlade <info@
@@ -335,11 +369,14 @@
 /Subject: .*Endless inventory of electronics /i REJECT Spam Subject: Endless inventory of electronics 
 /Subject: .*Express Business Funding/i REJECT Spam Subject: Express Business Funding
 /Subject: .*Financial assistance for you today/i REJECT Spam Subject: Financial assistance for you today
+/Subject: .*Find and compare internet providers /i REJECT Spam Subject: Find and compare internet providers 
 /Subject: .*Find current pricing and offers for SUVs/i REJECT Spam Subject: Find current pricing and offers for SUVs
+/Subject: .*Find great-promotions for /i REJECT Spam Subject: Find great-promotions for 
 /Subject: .*\[fname\] ,/i REJECT Spam Subject: \[fname\] ,
 /Subject: .*\[fname\] your new \[0-9\]+ Credit Report/i REJECT Spam Subject: \[fname\] your new \[0-9\]+ Credit Report
 /Subject: .*Free Professionals Online Registry/i REJECT Spam Subject: Free Professionals Online Registry
 /Subject: .*Free Shipping on Ink & Toner/i REJECT Spam Subject: Free Shipping on Ink & Toner
+/Subject: .*Genie Bra/i REJECT Spam Subject: Genie Bra
 /Subject: .*Get $1000 in as little as 1 hour/i REJECT Spam Subject: Get $1000 in as little as 1 hour
 /Subject: .*get 1000 TV channels on your computer/i REJECT Spam Subject: get 1000 TV channels on your computer
 /Subject: .*Get DirectTV at a /i REJECT Spam Subject: Get DirectTV at a 
@@ -375,6 +412,7 @@
 /Subject: .*Make Money Fast!/i REJECT Spam Subject: Make Money Fast!
 /Subject: .*Medicare Simplified /i REJECT Spam Subject: Medicare Simplified 
 /Subject: .*Meet up with a local handyman/i REJECT Spam Subject: Meet up with a local handyman
+/Subject: .*Melt fat away/i REJECT Spam Subject: Melt fat away
 /Subject: .*Mesh Patch information/i REJECT Spam Subject: Mesh Patch information
 /Subject: .*Mesh Patch Information /i REJECT Spam Subject: Mesh Patch Information 
 /Subject: .*Need MediGap Insurance/i REJECT Spam Subject: Need MediGap Insurance
@@ -390,6 +428,7 @@
 /Subject: .*Quick application for more money/i REJECT Spam Subject: Quick application for more money
 /Subject: .*Raise Your Salary and Growth Potential with an Online Degree/i REJECT Spam Subject: Raise Your Salary and Growth Potential with an Online Degree
 /Subject: .*REDUCE Inflammation/i REJECT Spam Subject: REDUCE Inflammation
+/Subject: .*Refinance Now and /i REJECT Spam Subject: Refinance Now and 
 /Subject: .*REGLAN Users - Lawsuit Information Update/i REJECT Spam Subject: REGLAN Users - Lawsuit Information Update
 /Subject: .*Reminder: Check your .* Credit Score/i REJECT Spam Subject: Reminder: Check your .* Credit Score
 /Subject: .*Satellite TV Deals/i REJECT Spam Subject: Satellite TV Deals
